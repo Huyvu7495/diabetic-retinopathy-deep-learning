@@ -8,5 +8,6 @@ Basic Workflow:
 2. Remove unused images in ./working (e.g. remove level 0 images)
 3. Open bash Ubuntu. Run ./resize.sh to resize and preprocess all images in ./working, outputs are in ./resize
 4. Modify and Use label_separate.py to copy images in to correct label's folder (outputs in ./labeled_xxx)
+
     **For level 1-4, remove folder 0**
 5. Goto model in ./tf_files, train models (these folders are from tensorflow for poets)
