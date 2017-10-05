@@ -2,6 +2,7 @@
 Classify Diabetic Retinopathy phases using Deep Learning
 
 Basic Workflow:
+
 0. Copy raw train data to ./train/
 
 1. Modify line 23 and 24 in pick.py to copy random images from ./train to ./working
