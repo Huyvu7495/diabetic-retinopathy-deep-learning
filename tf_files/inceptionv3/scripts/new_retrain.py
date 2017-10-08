@@ -776,21 +776,35 @@ def add_final_training_ops(class_count, final_tensor_name, bottleneck_tensor,
       #initial_value = tf.truncated_normal(
       #    [bottleneck_tensor_size, class_count], stddev=0.001)
           
+      semi_initial_value = tf.eye(
+          bottleneck_tensor_size, 128)
+
+      semi_layer_weights = tf.Variable(semi_initial_value, name='semi_final_weights')
+      
       initial_value = tf.eye(
-          bottleneck_tensor_size, class_count)
+          128, class_count)
 
       layer_weights = tf.Variable(initial_value, name='final_weights')
 
+      variable_summaries(semi_layer_weights)
       variable_summaries(layer_weights)
+      
     with tf.name_scope('biases'):
+      semi_layer_biases = tf.Variable(tf.zeros([128]), name='semi_final_biases')
       layer_biases = tf.Variable(tf.zeros([class_count]), name='final_biases')
+      variable_summaries(semi_layer_biases)
       variable_summaries(layer_biases)
+      
     with tf.name_scope('Wx_plus_b'):
-      logits = tf.matmul(bottleneck_input, layer_weights) + layer_biases
+      semi_logits = tf.matmul(bottleneck_input, semi_layer_weights) + semi_layer_biases
+      tf.summary.histogram('semi_pre_activations', semi_logits)
+      logits = tf.matmul(semi_logits, layer_weights) + layer_biases
       tf.summary.histogram('pre_activations', logits)
 
+  semi_final_tensor = tf.nn.relu(semi_logits, name='semi_final_tensor')
   final_tensor = tf.nn.softmax(logits, name=final_tensor_name)
   tf.summary.histogram('activations', final_tensor)
+  tf.summary.histogram('semi_activations', semi_final_tensor)
 
   with tf.name_scope('cross_entropy'):
     cross_entropy = tf.nn.softmax_cross_entropy_with_logits(
@@ -800,19 +814,16 @@ def add_final_training_ops(class_count, final_tensor_name, bottleneck_tensor,
   tf.summary.scalar('cross_entropy', cross_entropy_mean)
 
   with tf.name_scope('train'):
-    #optimizer = tf.train.GradientDescentOptimizer(FLAGS.learning_rate)
+    optimizer = tf.train.GradientDescentOptimizer(FLAGS.learning_rate)
     #optimizer = tf.train.RMSPropOptimizer(FLAGS.learning_rate, decay=1e-6, momentum=0.9)
     #optimizer = tf.train.MomentumOptimizer(FLAGS.learning_rate, momentum=0.9, use_nesterov=True)
     optimizer = tf.train.AdamOptimizer(learning_rate=FLAGS.learning_rate)
-
-    #grads_and_vars = optimizer.compute_gradients(cross_entropy_mean)
-    #capped_gvs = [(tf.clip_by_norm(grad, 1.0), var) for grad, var in grads_and_vars]
-    #train_step = optimizer.apply_gradients(capped_gvs)
-
-    train_step = optimizer.minimize(cross_entropy_mean)
-
+    grads_and_vars = optimizer.compute_gradients(cross_entropy_mean)
+    capped_gvs = [(tf.clip_by_norm(grad, 0.75), var) for grad, var in grads_and_vars]
+    train_step = optimizer.apply_gradients(capped_gvs)
+    #train_step = optimizer.minimize(cross_entropy_mean)
   return (train_step, cross_entropy_mean, bottleneck_input, ground_truth_input,
-          final_tensor)
+          final_tensor, semi_final_tensor, semi_layer_biases)
 
 
 def add_evaluation_step(result_tensor, ground_truth_tensor):
@@ -1041,7 +1052,7 @@ def main(_):
 
     # Add the new layer that we'll be training.
     (train_step, cross_entropy, bottleneck_input, ground_truth_input,
-     final_tensor) = add_final_training_ops(
+     final_tensor, semi_final_tensor, semi_layer_biases) = add_final_training_ops(
          len(image_lists.keys()), FLAGS.final_tensor_name, bottleneck_tensor,
          model_info['bottleneck_tensor_size'])
 
@@ -1084,7 +1095,7 @@ def main(_):
           [merged, train_step],
           feed_dict={bottleneck_input: train_bottlenecks,
                      ground_truth_input: train_ground_truth})
-      train_writer.add_summary(train_summary, i)
+      #train_writer.add_summary(train_summary, i)
 
       # Every so often, print out how well the graph is training.
       is_last_step = (i + 1 == FLAGS.how_many_training_steps)
@@ -1107,6 +1118,7 @@ def main(_):
         # with the `merged` op.
         print('------------------------------------------------------------------')
         print(datetime.now())
+        #print(semi_layer_biases.eval()[0:10])
         tf.logging.info('Step %d: Train accuracy = %.1f%%' %
                         (i, train_accuracy * 100))
         tf.logging.info('Step %d: Cross entropy = %f' %
@@ -1116,6 +1128,7 @@ def main(_):
             [merged, evaluation_step, cross_entropy],
             feed_dict={bottleneck_input: validation_bottlenecks,
                        ground_truth_input: validation_ground_truth})
+        train_writer.add_summary(train_summary, i)
         validation_writer.add_summary(validation_summary, i)
         tf.logging.info('Step %d: Validation accuracy = %.1f%% (N=%d)' %
                         (i, validation_accuracy * 100,
