@@ -94,6 +94,10 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
+# remove warning
+import os
+#os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+
 import argparse
 from datetime import datetime
 import hashlib
@@ -769,8 +773,8 @@ def add_final_training_ops(class_count, final_tensor_name, bottleneck_tensor,
   layer_name = 'final_training_ops'
   with tf.name_scope(layer_name):
     with tf.name_scope('weights'):
-      initial_value = tf.truncated_normal(
-          [bottleneck_tensor_size, class_count], stddev=0.001)
+      #initial_value = tf.truncated_normal(
+      #    [bottleneck_tensor_size, class_count], stddev=0.001)
           
       initial_value = tf.eye(
           bottleneck_tensor_size, class_count)
@@ -797,12 +801,15 @@ def add_final_training_ops(class_count, final_tensor_name, bottleneck_tensor,
 
   with tf.name_scope('train'):
     #optimizer = tf.train.GradientDescentOptimizer(FLAGS.learning_rate)
-    optimizer = tf.train.MomentumOptimizer(FLAGS.learning_rate, momentum=0.9, use_nesterov=True)
-    grads_and_vars = optimizer.compute_gradients(cross_entropy_mean)
-    capped_gvs = [(tf.clip_by_norm(grad, 1.0), var) for grad, var in grads_and_vars]
-    train_step = optimizer.apply_gradients(capped_gvs)
+    #optimizer = tf.train.RMSPropOptimizer(FLAGS.learning_rate, decay=1e-6, momentum=0.9)
+    #optimizer = tf.train.MomentumOptimizer(FLAGS.learning_rate, momentum=0.9, use_nesterov=True)
+    optimizer = tf.train.AdamOptimizer(learning_rate=FLAGS.learning_rate)
 
-    #train_step = optimizer.minimize(cross_entropy_mean)
+    #grads_and_vars = optimizer.compute_gradients(cross_entropy_mean)
+    #capped_gvs = [(tf.clip_by_norm(grad, 1.0), var) for grad, var in grads_and_vars]
+    #train_step = optimizer.apply_gradients(capped_gvs)
+
+    train_step = optimizer.minimize(cross_entropy_mean)
 
   return (train_step, cross_entropy_mean, bottleneck_input, ground_truth_input,
           final_tensor)
@@ -1086,10 +1093,10 @@ def main(_):
             [evaluation_step, cross_entropy],
             feed_dict={bottleneck_input: train_bottlenecks,
                        ground_truth_input: train_ground_truth})
-        tf.logging.info('%s: Step %d: Train accuracy = %.1f%%' %
-                        (datetime.now(), i, train_accuracy * 100))
-        tf.logging.info('%s: Step %d: Cross entropy = %f' %
-                        (datetime.now(), i, cross_entropy_value))
+        #tf.logging.info('%s: Step %d: Train accuracy = %.1f%%' %
+        #                (datetime.now(), i, train_accuracy * 100))
+        #tf.logging.info('%s: Step %d: Cross entropy = %f' %
+        #                (datetime.now(), i, cross_entropy_value))
         validation_bottlenecks, validation_ground_truth, _ = (
             get_random_cached_bottlenecks(
                 sess, image_lists, FLAGS.validation_batch_size, 'validation',
@@ -1098,14 +1105,24 @@ def main(_):
                 FLAGS.architecture))
         # Run a validation step and capture training summaries for TensorBoard
         # with the `merged` op.
-        validation_summary, validation_accuracy = sess.run(
-            [merged, evaluation_step],
+        print('------------------------------------------------------------------')
+        print(datetime.now())
+        tf.logging.info('Step %d: Train accuracy = %.1f%%' %
+                        (i, train_accuracy * 100))
+        tf.logging.info('Step %d: Cross entropy = %f' %
+                        (i, cross_entropy_value))
+        
+        validation_summary, validation_accuracy, val_cross_entropy = sess.run(
+            [merged, evaluation_step, cross_entropy],
             feed_dict={bottleneck_input: validation_bottlenecks,
                        ground_truth_input: validation_ground_truth})
         validation_writer.add_summary(validation_summary, i)
-        tf.logging.info('%s: Step %d: Validation accuracy = %.1f%% (N=%d)' %
-                        (datetime.now(), i, validation_accuracy * 100,
+        tf.logging.info('Step %d: Validation accuracy = %.1f%% (N=%d)' %
+                        (i, validation_accuracy * 100,
                          len(validation_bottlenecks)))
+                         
+        tf.logging.info('Step %d: Val Cross entropy = %f' %
+                        (i, val_cross_entropy))
 
       # Store intermediate results
       intermediate_frequency = FLAGS.intermediate_store_frequency
@@ -1130,6 +1147,7 @@ def main(_):
         [evaluation_step, prediction],
         feed_dict={bottleneck_input: test_bottlenecks,
                    ground_truth_input: test_ground_truth})
+    print('------------------------------------------------------------------')
     tf.logging.info('Final test accuracy = %.1f%% (N=%d)' %
                     (test_accuracy * 100, len(test_bottlenecks)))
 

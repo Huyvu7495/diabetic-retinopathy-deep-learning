@@ -128,8 +128,10 @@ if __name__ == "__main__":
                           
         results = np.squeeze(results)
         top_k = results.argsort()[-5:][::-1]
-        key_list.append(f[0:(len(f)-5)]) 
-        value_list.append(int(labels[list(results).index(max(results))]))
+        key_list.append(f[0:(len(f)-5)])
+        yhat = int(results[1]>0.4)
+        #value_list.append(int(labels[list(results).index(max(results))]))
+        value_list.append(yhat)
             
         count+=1
         if count%20 == 0:
