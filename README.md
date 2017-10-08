@@ -2,6 +2,7 @@
 Classify Diabetic Retinopathy phases using Deep Learning
 
 ## Changelog
+- Support linux shell
 - New model: ReLU + softmax (in new_retrain.py)
 - Early stopping strategy
 - Threshold in final softmax layer
