@@ -1084,7 +1084,6 @@ def main(_):
           [merged, train_step],
           feed_dict={bottleneck_input: train_bottlenecks,
                      ground_truth_input: train_ground_truth})
-      train_writer.add_summary(train_summary, i)
 
       # Every so often, print out how well the graph is training.
       is_last_step = (i + 1 == FLAGS.how_many_training_steps)
@@ -1116,6 +1115,7 @@ def main(_):
             [merged, evaluation_step, cross_entropy],
             feed_dict={bottleneck_input: validation_bottlenecks,
                        ground_truth_input: validation_ground_truth})
+        train_writer.add_summary(train_summary, i)
         validation_writer.add_summary(validation_summary, i)
         tf.logging.info('Step %d: Validation accuracy = %.1f%% (N=%d)' %
                         (i, validation_accuracy * 100,
@@ -1123,6 +1123,17 @@ def main(_):
                          
         tf.logging.info('Step %d: Val Cross entropy = %f' %
                         (i, val_cross_entropy))
+                        
+        # early stopping implementation
+        if i==0:
+            best_idx = i 
+            best = val_cross_entropy
+        else:
+            if val_cross_entropy<best:
+                best = val_cross_entropy
+                best_idx = i
+                save_graph_to_file(sess, graph, FLAGS.output_graph.replace('.pb', '_best.pb'))
+
 
       # Store intermediate results
       intermediate_frequency = FLAGS.intermediate_store_frequency
@@ -1150,6 +1161,8 @@ def main(_):
     print('------------------------------------------------------------------')
     tf.logging.info('Final test accuracy = %.1f%% (N=%d)' %
                     (test_accuracy * 100, len(test_bottlenecks)))
+    tf.logging.info('Best step: Step %d, Val cross entropy = %f' %
+                    (best_idx, best))
 
     if FLAGS.print_misclassified_test_images:
       tf.logging.info('=== MISCLASSIFIED TEST IMAGES ===')
