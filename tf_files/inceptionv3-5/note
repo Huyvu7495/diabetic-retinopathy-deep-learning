@@ -1,0 +1,12 @@
+2017-10-10 20:27:29.845449
+INFO:tensorflow:Step 499999: Train accuracy = 87.5%
+INFO:tensorflow:Step 499999: Cross entropy = 0.462148
+INFO:tensorflow:Step 499999: Validation accuracy = 80.1% (N=1000)
+INFO:tensorflow:Step 499999: Val Cross entropy = 0.420326
+------------------------------------------------------------------
+INFO:tensorflow:Final test accuracy = 77.1% (N=2210)
+INFO:tensorflow:======== F1 SCORE ========
+845 214 859 292
+PRECISION       0.7979225684608121
+RECALL          0.7431838170624451
+F1              0.7695810564663024
