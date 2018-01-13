@@ -1,0 +1,6 @@
+CD=../../
+
+python3 "$CD"SOURCE/python/lib/label_image.py \
+--graph=../output/classifier.pb \
+--image="$CD"SOURCE/dataset/"$1"/"$2"_"$3".jpeg \
+--label=../output/label.txt

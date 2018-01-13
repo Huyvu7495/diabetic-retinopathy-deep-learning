@@ -1,0 +1,5 @@
+Below commands are for Ubuntu 16.04
+
+
+Install imagemagick (This tool is used for preprocess images in dataset, if you will not modify the dataset, you don't need to install it)
+$ sudo apt-get install imagemagick

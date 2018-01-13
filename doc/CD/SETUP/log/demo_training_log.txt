@@ -1,0 +1,93 @@
+./train
+INFO:tensorflow:Looking for images in '1'
+INFO:tensorflow:Looking for images in '2'
+INFO:tensorflow:Looking for images in '3'
+INFO:tensorflow:Looking for images in '4'
+INFO:tensorflow:100 bottleneck files created.
+INFO:tensorflow:200 bottleneck files created.
+INFO:tensorflow:300 bottleneck files created.
+INFO:tensorflow:400 bottleneck files created.
+------------------------------------------------------------------
+2018-01-11 21:57:43.959994
+INFO:tensorflow:Step 0: Train accuracy = 32.0%
+INFO:tensorflow:Step 0: Cross entropy = 1.373506
+INFO:tensorflow:Step 0: Validation accuracy = 0.0% (N=2)
+INFO:tensorflow:Step 0: Val Cross entropy = 1.475004
+------------------------------------------------------------------
+2018-01-11 21:58:05.716537
+INFO:tensorflow:Step 50: Train accuracy = 62.5%
+INFO:tensorflow:Step 50: Cross entropy = 1.043713
+INFO:tensorflow:Step 50: Validation accuracy = 0.0% (N=2)
+INFO:tensorflow:Step 50: Val Cross entropy = 1.440688
+------------------------------------------------------------------
+New best step 50, train cross entropy = 1.0437126159667969, train acc = 62.5%
+New best step 50, val cross entropy = 1.440688133239746, val acc = 0.0%
+INFO:tensorflow:Froze 6 variables.
+Converted 6 variables to const ops.
+------------------------------------------------------------------
+2018-01-11 21:58:25.557507
+INFO:tensorflow:Step 100: Train accuracy = 68.8%
+INFO:tensorflow:Step 100: Cross entropy = 0.888113
+INFO:tensorflow:Step 100: Validation accuracy = 0.0% (N=2)
+INFO:tensorflow:Step 100: Val Cross entropy = 1.463524
+------------------------------------------------------------------
+2018-01-11 21:58:45.627325
+INFO:tensorflow:Step 150: Train accuracy = 69.5%
+INFO:tensorflow:Step 150: Cross entropy = 0.790352
+INFO:tensorflow:Step 150: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 150: Val Cross entropy = 1.095194
+------------------------------------------------------------------
+New best step 150, train cross entropy = 0.7903515100479126, train acc = 69.53125%
+New best step 150, val cross entropy = 1.09519362449646, val acc = 50.0%
+INFO:tensorflow:Froze 6 variables.
+Converted 6 variables to const ops.
+------------------------------------------------------------------
+2018-01-11 21:59:06.297235
+INFO:tensorflow:Step 200: Train accuracy = 77.3%
+INFO:tensorflow:Step 200: Cross entropy = 0.664554
+INFO:tensorflow:Step 200: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 200: Val Cross entropy = 1.222726
+------------------------------------------------------------------
+2018-01-11 21:59:25.321793
+INFO:tensorflow:Step 250: Train accuracy = 85.9%
+INFO:tensorflow:Step 250: Cross entropy = 0.537252
+INFO:tensorflow:Step 250: Validation accuracy = 0.0% (N=2)
+INFO:tensorflow:Step 250: Val Cross entropy = 1.450431
+------------------------------------------------------------------
+2018-01-11 21:59:44.196305
+INFO:tensorflow:Step 300: Train accuracy = 80.5%
+INFO:tensorflow:Step 300: Cross entropy = 0.616941
+INFO:tensorflow:Step 300: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 300: Val Cross entropy = 1.351834
+------------------------------------------------------------------
+2018-01-11 22:00:03.879975
+INFO:tensorflow:Step 350: Train accuracy = 89.1%
+INFO:tensorflow:Step 350: Cross entropy = 0.453989
+INFO:tensorflow:Step 350: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 350: Val Cross entropy = 1.310454
+------------------------------------------------------------------
+2018-01-11 22:00:22.674683
+INFO:tensorflow:Step 400: Train accuracy = 88.3%
+INFO:tensorflow:Step 400: Cross entropy = 0.447075
+INFO:tensorflow:Step 400: Validation accuracy = 0.0% (N=2)
+INFO:tensorflow:Step 400: Val Cross entropy = 1.589158
+------------------------------------------------------------------
+2018-01-11 22:00:41.891165
+INFO:tensorflow:Step 450: Train accuracy = 90.6%
+INFO:tensorflow:Step 450: Cross entropy = 0.426272
+INFO:tensorflow:Step 450: Validation accuracy = 0.0% (N=2)
+INFO:tensorflow:Step 450: Val Cross entropy = 1.730116
+------------------------------------------------------------------
+2018-01-11 22:01:00.282695
+INFO:tensorflow:Step 499: Train accuracy = 93.0%
+INFO:tensorflow:Step 499: Cross entropy = 0.396129
+INFO:tensorflow:Step 499: Validation accuracy = 0.0% (N=2)
+INFO:tensorflow:Step 499: Val Cross entropy = 1.798676
+------------------------------ SUMMARY ------------------------------
+INFO:tensorflow:Final test accuracy = 50.0% (N=6)
+----------------------------- MORE INFO -----------------------------
+INFO:tensorflow:Best step: Step 150, Train cross entropy = 0.790352, Train acc = 69.5%
+INFO:tensorflow:Best step: Step 150, Val cross entropy = 1.095194, Val acc = 50.0%
+------------------------------- FROZE -------------------------------
+INFO:tensorflow:Froze 6 variables.
+Converted 6 variables to const ops.

@@ -1,0 +1,10 @@
+Below commands are for Ubuntu 16.04
+
+Prerequisite: Install Python3 and Pip3
+$ sudo apt-get install python3-pip python3-dev 
+
+Install TensorFlow
+$ pip3 install tensorflow
+
+For more information, please visit official tensorflow webpage:
+https://www.tensorflow.org/install/install_linux#InstallingNativePip
