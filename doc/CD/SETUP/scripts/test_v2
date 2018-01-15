@@ -1,0 +1,5 @@
+python3 multi_model_predict_RAM.py \
+--project="/mnt/d/00_work/data/kaggle datasets/DR/" \
+--graph=tf_files/"$1".pb \
+--labels=tf_files/"$2".txt \
+--testpath="/mnt/d/00_work/data/kaggle datasets/DR/test_labeled_5/"

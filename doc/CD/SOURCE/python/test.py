@@ -50,7 +50,6 @@ def read_tensor_from_image_file(file_name, input_height=299, input_width=299,
 
 
 def cal_accuracy(files, dict_list):
-    df = pd.read_csv(PROJECT_PATH + 'trainLabels.csv')
     num = len(files['dir'])
     TP, FP, TN, FN = 0, 0, 0, 0
     miss_class = list()

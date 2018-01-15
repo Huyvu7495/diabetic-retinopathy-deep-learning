@@ -3,91 +3,356 @@ INFO:tensorflow:Looking for images in '1'
 INFO:tensorflow:Looking for images in '2'
 INFO:tensorflow:Looking for images in '3'
 INFO:tensorflow:Looking for images in '4'
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/52456_right.jpeg_inception_v3.txt
+2018-01-13 21:02:59.388014: W tensorflow/core/framework/op_def_util.cc:334] Op BatchNormWithGlobalNormalization is deprecated. It will cease to work in GraphDef version 9. Use tf.nn.batch_normalization().
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/52857_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/54558_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/54626_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/54669_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/55703_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/56177_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/57133_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/60280_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/60875_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/61335_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/62577_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/63635_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/63797_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/64181_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/65454_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/66084_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/66387_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/66532_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/66726_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/66758_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/67844_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/68833_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/69933_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/70233_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/70233_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/70511_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/71256_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/71492_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/71653_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/71788_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/73144_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/74479_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/74709_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/74956_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/75576_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/75970_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/77797_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/78005_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/78075_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/79022_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/79253_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/79885_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/81323_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/83636_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/83781_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/83889_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/84273_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/84286_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/87999_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/88568_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/90034_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/90460_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/91200_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/91200_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/91511_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/91783_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/92112_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/92591_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/92752_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/93781_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/96009_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/2/80151_right.jpeg_inception_v3.txt
 INFO:tensorflow:100 bottleneck files created.
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/53049_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/54432_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/54811_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/54942_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/55970_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/56501_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/57067_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/57248_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/57248_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/59008_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/61155_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/61467_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/61780_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/62211_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/62370_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/62950_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/63769_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/65468_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/65698_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/66641_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/67394_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/67394_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/69133_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/69494_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/70591_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/70943_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/73898_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/75036_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/75182_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/75604_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/76024_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/77265_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/77450_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/77450_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/77783_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/78367_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/78736_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/79169_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/80086_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/80588_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/80995_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/81243_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/81312_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/81601_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/81845_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/82407_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/82561_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/82734_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/83090_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/83582_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/83964_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/85553_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/87006_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/87473_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/89212_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/89856_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/91305_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/92373_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/92648_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/92752_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/94914_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/94914_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/95177_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/96367_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/1/89307_left.jpeg_inception_v3.txt
 INFO:tensorflow:200 bottleneck files created.
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/23369_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/38694_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/53008_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/54356_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/54356_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/55274_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/59445_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/61520_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/61821_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/62212_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/63256_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/64803_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/66865_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/68696_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/69076_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/69076_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/69384_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/74522_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/75704_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/75971_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/76187_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/77013_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/77271_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/77271_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/78230_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/78230_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/78344_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/78344_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/78438_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/78588_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/78588_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/79231_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/79231_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/81202_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/82678_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/83301_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/83622_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/83937_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/84494_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/84600_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/85190_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/86950_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/87833_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/87860_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/87892_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/88971_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/89179_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/89645_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/89645_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/92327_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/92628_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/93296_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/93357_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/94492_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/95328_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/95565_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/96089_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/96089_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/96275_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/96482_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/54394_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/3/92327_left.jpeg_inception_v3.txt
 INFO:tensorflow:300 bottleneck files created.
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/24472_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/54661_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/54849_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/57849_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/58893_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/59184_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/59257_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/59993_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/61590_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/61590_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/61909_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/62712_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/62712_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/62728_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/66267_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/67328_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/67328_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/67593_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/69405_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/70160_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/70296_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/70301_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/70475_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/70475_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/70868_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/71745_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/73185_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/73839_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/73971_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/74945_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/74947_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/75723_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/75993_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/76030_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/76030_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/76632_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/77126_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/77293_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/79984_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/80484_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/81629_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/82579_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/82770_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/84043_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/85664_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/85876_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/86124_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/87199_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/87199_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/87448_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/89179_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/91569_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/92630_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/93117_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/93117_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/96032_right.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/a_69507_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/b_69507_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/c_69507_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/d_69507_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/e_69507_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/f_69507_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/g_69507_left.jpeg_inception_v3.txt
+INFO:tensorflow:Creating bottleneck at ../../SETUP/tf_files/bottlenecks/4/h_69507_left.jpeg_inception_v3.txt
 INFO:tensorflow:400 bottleneck files created.
 ------------------------------------------------------------------
-2018-01-11 21:57:43.959994
+2018-01-13 21:03:36.298952
 INFO:tensorflow:Step 0: Train accuracy = 32.0%
-INFO:tensorflow:Step 0: Cross entropy = 1.373506
-INFO:tensorflow:Step 0: Validation accuracy = 0.0% (N=2)
-INFO:tensorflow:Step 0: Val Cross entropy = 1.475004
+INFO:tensorflow:Step 0: Cross entropy = 1.391024
+INFO:tensorflow:Step 0: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 0: Val Cross entropy = 1.377294
 ------------------------------------------------------------------
-2018-01-11 21:58:05.716537
-INFO:tensorflow:Step 50: Train accuracy = 62.5%
-INFO:tensorflow:Step 50: Cross entropy = 1.043713
-INFO:tensorflow:Step 50: Validation accuracy = 0.0% (N=2)
-INFO:tensorflow:Step 50: Val Cross entropy = 1.440688
+2018-01-13 21:03:55.365096
+INFO:tensorflow:Step 50: Train accuracy = 61.7%
+INFO:tensorflow:Step 50: Cross entropy = 0.953639
+INFO:tensorflow:Step 50: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 50: Val Cross entropy = 1.063719
 ------------------------------------------------------------------
-New best step 50, train cross entropy = 1.0437126159667969, train acc = 62.5%
-New best step 50, val cross entropy = 1.440688133239746, val acc = 0.0%
+New best step 50, train cross entropy = 0.9536391496658325, train acc = 61.71875%
+New best step 50, val cross entropy = 1.0637189149856567, val acc = 50.0%
 INFO:tensorflow:Froze 6 variables.
 Converted 6 variables to const ops.
 ------------------------------------------------------------------
-2018-01-11 21:58:25.557507
+2018-01-13 21:04:15.155803
 INFO:tensorflow:Step 100: Train accuracy = 68.8%
-INFO:tensorflow:Step 100: Cross entropy = 0.888113
-INFO:tensorflow:Step 100: Validation accuracy = 0.0% (N=2)
-INFO:tensorflow:Step 100: Val Cross entropy = 1.463524
+INFO:tensorflow:Step 100: Cross entropy = 0.893500
+INFO:tensorflow:Step 100: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 100: Val Cross entropy = 1.023882
 ------------------------------------------------------------------
-2018-01-11 21:58:45.627325
-INFO:tensorflow:Step 150: Train accuracy = 69.5%
-INFO:tensorflow:Step 150: Cross entropy = 0.790352
-INFO:tensorflow:Step 150: Validation accuracy = 50.0% (N=2)
-INFO:tensorflow:Step 150: Val Cross entropy = 1.095194
-------------------------------------------------------------------
-New best step 150, train cross entropy = 0.7903515100479126, train acc = 69.53125%
-New best step 150, val cross entropy = 1.09519362449646, val acc = 50.0%
+New best step 100, train cross entropy = 0.8935002088546753, train acc = 68.75%
+New best step 100, val cross entropy = 1.0238815546035767, val acc = 50.0%
 INFO:tensorflow:Froze 6 variables.
 Converted 6 variables to const ops.
 ------------------------------------------------------------------
-2018-01-11 21:59:06.297235
-INFO:tensorflow:Step 200: Train accuracy = 77.3%
-INFO:tensorflow:Step 200: Cross entropy = 0.664554
+2018-01-13 21:04:34.929496
+INFO:tensorflow:Step 150: Train accuracy = 78.1%
+INFO:tensorflow:Step 150: Cross entropy = 0.734776
+INFO:tensorflow:Step 150: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 150: Val Cross entropy = 0.989577
+------------------------------------------------------------------
+New best step 150, train cross entropy = 0.7347761988639832, train acc = 78.125%
+New best step 150, val cross entropy = 0.9895772337913513, val acc = 50.0%
+INFO:tensorflow:Froze 6 variables.
+Converted 6 variables to const ops.
+------------------------------------------------------------------
+2018-01-13 21:04:54.142462
+INFO:tensorflow:Step 200: Train accuracy = 75.0%
+INFO:tensorflow:Step 200: Cross entropy = 0.690644
 INFO:tensorflow:Step 200: Validation accuracy = 50.0% (N=2)
-INFO:tensorflow:Step 200: Val Cross entropy = 1.222726
+INFO:tensorflow:Step 200: Val Cross entropy = 1.089971
 ------------------------------------------------------------------
-2018-01-11 21:59:25.321793
-INFO:tensorflow:Step 250: Train accuracy = 85.9%
-INFO:tensorflow:Step 250: Cross entropy = 0.537252
-INFO:tensorflow:Step 250: Validation accuracy = 0.0% (N=2)
-INFO:tensorflow:Step 250: Val Cross entropy = 1.450431
+2018-01-13 21:05:12.258108
+INFO:tensorflow:Step 250: Train accuracy = 85.2%
+INFO:tensorflow:Step 250: Cross entropy = 0.591410
+INFO:tensorflow:Step 250: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 250: Val Cross entropy = 1.249163
 ------------------------------------------------------------------
-2018-01-11 21:59:44.196305
-INFO:tensorflow:Step 300: Train accuracy = 80.5%
-INFO:tensorflow:Step 300: Cross entropy = 0.616941
+2018-01-13 21:05:30.164331
+INFO:tensorflow:Step 300: Train accuracy = 84.4%
+INFO:tensorflow:Step 300: Cross entropy = 0.568562
 INFO:tensorflow:Step 300: Validation accuracy = 50.0% (N=2)
-INFO:tensorflow:Step 300: Val Cross entropy = 1.351834
+INFO:tensorflow:Step 300: Val Cross entropy = 1.169808
 ------------------------------------------------------------------
-2018-01-11 22:00:03.879975
+2018-01-13 21:05:48.017290
 INFO:tensorflow:Step 350: Train accuracy = 89.1%
-INFO:tensorflow:Step 350: Cross entropy = 0.453989
+INFO:tensorflow:Step 350: Cross entropy = 0.497798
 INFO:tensorflow:Step 350: Validation accuracy = 50.0% (N=2)
-INFO:tensorflow:Step 350: Val Cross entropy = 1.310454
+INFO:tensorflow:Step 350: Val Cross entropy = 1.034885
 ------------------------------------------------------------------
-2018-01-11 22:00:22.674683
+2018-01-13 21:06:05.630561
 INFO:tensorflow:Step 400: Train accuracy = 88.3%
-INFO:tensorflow:Step 400: Cross entropy = 0.447075
-INFO:tensorflow:Step 400: Validation accuracy = 0.0% (N=2)
-INFO:tensorflow:Step 400: Val Cross entropy = 1.589158
+INFO:tensorflow:Step 400: Cross entropy = 0.501907
+INFO:tensorflow:Step 400: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 400: Val Cross entropy = 0.991398
 ------------------------------------------------------------------
-2018-01-11 22:00:41.891165
-INFO:tensorflow:Step 450: Train accuracy = 90.6%
-INFO:tensorflow:Step 450: Cross entropy = 0.426272
-INFO:tensorflow:Step 450: Validation accuracy = 0.0% (N=2)
-INFO:tensorflow:Step 450: Val Cross entropy = 1.730116
+2018-01-13 21:06:23.393255
+INFO:tensorflow:Step 450: Train accuracy = 88.3%
+INFO:tensorflow:Step 450: Cross entropy = 0.437825
+INFO:tensorflow:Step 450: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 450: Val Cross entropy = 0.781894
 ------------------------------------------------------------------
-2018-01-11 22:01:00.282695
+New best step 450, train cross entropy = 0.4378247857093811, train acc = 88.28125%
+New best step 450, val cross entropy = 0.7818940877914429, val acc = 50.0%
+INFO:tensorflow:Froze 6 variables.
+Converted 6 variables to const ops.
+------------------------------------------------------------------
+2018-01-13 21:06:42.228828
 INFO:tensorflow:Step 499: Train accuracy = 93.0%
-INFO:tensorflow:Step 499: Cross entropy = 0.396129
-INFO:tensorflow:Step 499: Validation accuracy = 0.0% (N=2)
-INFO:tensorflow:Step 499: Val Cross entropy = 1.798676
+INFO:tensorflow:Step 499: Cross entropy = 0.392414
+INFO:tensorflow:Step 499: Validation accuracy = 50.0% (N=2)
+INFO:tensorflow:Step 499: Val Cross entropy = 1.161424
 ------------------------------ SUMMARY ------------------------------
-INFO:tensorflow:Final test accuracy = 50.0% (N=6)
+INFO:tensorflow:Final test accuracy = 66.7% (N=3)
 ----------------------------- MORE INFO -----------------------------
-INFO:tensorflow:Best step: Step 150, Train cross entropy = 0.790352, Train acc = 69.5%
-INFO:tensorflow:Best step: Step 150, Val cross entropy = 1.095194, Val acc = 50.0%
+INFO:tensorflow:Best step: Step 450, Train cross entropy = 0.437825, Train acc = 88.3%
+INFO:tensorflow:Best step: Step 450, Val cross entropy = 0.781894, Val acc = 50.0%
 ------------------------------- FROZE -------------------------------
 INFO:tensorflow:Froze 6 variables.
 Converted 6 variables to const ops.

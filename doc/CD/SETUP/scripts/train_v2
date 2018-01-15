@@ -1,0 +1,18 @@
+CD=../../
+ARCHITECTURE="inception_v3"
+
+python3 "$CD"SOURCE/python/train_v2.py --bottleneck_dir="$CD"SETUP/tf_files/bottlenecks \
+--how_many_training_steps=100000 \
+--learning_rate=0.001 \
+--train_batch_size=128 \
+--validation_batch_size=671 \
+--validation_percentage=1 \
+--test_batch_size=1340 \
+--testing_percentage=2 \
+--eval_step_interval=1000 \
+--model_dir="$CD"SETUP/tf_files/model/"${ARCHITECTURE}" \
+--summaries_dir="$CD"SETUP/tf_files/training_summaries/"${ARCHITECTURE}" \
+--output_graph="$CD"SETUP/tf_files/classifier.pb \
+--output_labels="$CD"SETUP/tf_files/label.txt \
+--architecture="${ARCHITECTURE}" \
+--image_dir="$CD"SOURCE/dataset/train

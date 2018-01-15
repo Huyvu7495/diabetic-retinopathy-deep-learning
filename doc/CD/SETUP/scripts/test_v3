@@ -1,0 +1,6 @@
+CD=../../
+
+python3 "$CD"SOURCE/python/test.py \
+--graph="$CD"SETUP/output/v3/classifier.pb \
+--labels="$CD"SETUP/output/v3/label.txt \
+--testpath="$CD"SOURCE/dataset/test/
