@@ -202,7 +202,6 @@ if __name__ == "__main__":
         f=files['file'][i]
         key_list.append(f[0:(len(f) - 5)])
     top_dict=dict(zip(key_list, value_list))
-    dict_list.append(top_dict)  # temp fix
-    print(len(dict_list[0]))
+    dict_list.append(top_dict)  
     cal_accuracy(files, dict_list)
     print("FINISH ", datetime.now())

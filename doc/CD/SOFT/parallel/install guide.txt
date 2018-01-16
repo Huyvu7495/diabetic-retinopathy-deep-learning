@@ -1,0 +1,4 @@
+Below commands are for Ubuntu 16.04
+
+Parallel is used for preprocessing phase
+$ sudo apt-get install parallel 

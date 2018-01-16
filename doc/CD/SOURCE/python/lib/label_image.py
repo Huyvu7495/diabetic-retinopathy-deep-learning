@@ -22,6 +22,9 @@ import sys
 
 import numpy as np
 import tensorflow as tf
+from os import environ
+# remove warning
+environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 def load_graph(model_file):
   graph = tf.Graph()
