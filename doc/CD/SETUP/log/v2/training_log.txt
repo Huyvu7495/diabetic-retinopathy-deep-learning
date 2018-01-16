@@ -1,0 +1,1179 @@
+./today.sh
+INFO:tensorflow:Looking for images in '1'
+INFO:tensorflow:Looking for images in '2'
+INFO:tensorflow:Looking for images in '3'
+INFO:tensorflow:Looking for images in '4'
+INFO:tensorflow:100 bottleneck files created.
+INFO:tensorflow:200 bottleneck files created.
+INFO:tensorflow:300 bottleneck files created.
+INFO:tensorflow:400 bottleneck files created.
+INFO:tensorflow:500 bottleneck files created.
+INFO:tensorflow:600 bottleneck files created.
+INFO:tensorflow:700 bottleneck files created.
+INFO:tensorflow:800 bottleneck files created.
+INFO:tensorflow:900 bottleneck files created.
+INFO:tensorflow:1000 bottleneck files created.
+INFO:tensorflow:1100 bottleneck files created.
+INFO:tensorflow:1200 bottleneck files created.
+INFO:tensorflow:1300 bottleneck files created.
+INFO:tensorflow:1400 bottleneck files created.
+INFO:tensorflow:1500 bottleneck files created.
+INFO:tensorflow:1600 bottleneck files created.
+INFO:tensorflow:1700 bottleneck files created.
+INFO:tensorflow:1800 bottleneck files created.
+INFO:tensorflow:1900 bottleneck files created.
+INFO:tensorflow:2000 bottleneck files created.
+INFO:tensorflow:2100 bottleneck files created.
+INFO:tensorflow:2200 bottleneck files created.
+INFO:tensorflow:2300 bottleneck files created.
+INFO:tensorflow:2400 bottleneck files created.
+INFO:tensorflow:2500 bottleneck files created.
+INFO:tensorflow:2600 bottleneck files created.
+INFO:tensorflow:2700 bottleneck files created.
+INFO:tensorflow:2800 bottleneck files created.
+INFO:tensorflow:2900 bottleneck files created.
+INFO:tensorflow:3000 bottleneck files created.
+INFO:tensorflow:3100 bottleneck files created.
+INFO:tensorflow:3200 bottleneck files created.
+INFO:tensorflow:3300 bottleneck files created.
+INFO:tensorflow:3400 bottleneck files created.
+INFO:tensorflow:3500 bottleneck files created.
+INFO:tensorflow:3600 bottleneck files created.
+INFO:tensorflow:3700 bottleneck files created.
+INFO:tensorflow:3800 bottleneck files created.
+INFO:tensorflow:3900 bottleneck files created.
+INFO:tensorflow:4000 bottleneck files created.
+INFO:tensorflow:4100 bottleneck files created.
+INFO:tensorflow:4200 bottleneck files created.
+INFO:tensorflow:4300 bottleneck files created.
+INFO:tensorflow:4400 bottleneck files created.
+INFO:tensorflow:4500 bottleneck files created.
+INFO:tensorflow:4600 bottleneck files created.
+INFO:tensorflow:4700 bottleneck files created.
+INFO:tensorflow:4800 bottleneck files created.
+INFO:tensorflow:4900 bottleneck files created.
+INFO:tensorflow:5000 bottleneck files created.
+INFO:tensorflow:5100 bottleneck files created.
+INFO:tensorflow:5200 bottleneck files created.
+INFO:tensorflow:5300 bottleneck files created.
+INFO:tensorflow:5400 bottleneck files created.
+INFO:tensorflow:5500 bottleneck files created.
+INFO:tensorflow:5600 bottleneck files created.
+INFO:tensorflow:5700 bottleneck files created.
+INFO:tensorflow:5800 bottleneck files created.
+INFO:tensorflow:5900 bottleneck files created.
+INFO:tensorflow:6000 bottleneck files created.
+INFO:tensorflow:6100 bottleneck files created.
+INFO:tensorflow:6200 bottleneck files created.
+INFO:tensorflow:6300 bottleneck files created.
+INFO:tensorflow:6400 bottleneck files created.
+INFO:tensorflow:6500 bottleneck files created.
+INFO:tensorflow:6600 bottleneck files created.
+INFO:tensorflow:6700 bottleneck files created.
+INFO:tensorflow:6800 bottleneck files created.
+INFO:tensorflow:6900 bottleneck files created.
+INFO:tensorflow:7000 bottleneck files created.
+INFO:tensorflow:7100 bottleneck files created.
+INFO:tensorflow:7200 bottleneck files created.
+INFO:tensorflow:7300 bottleneck files created.
+INFO:tensorflow:7400 bottleneck files created.
+INFO:tensorflow:7500 bottleneck files created.
+INFO:tensorflow:7600 bottleneck files created.
+INFO:tensorflow:7700 bottleneck files created.
+INFO:tensorflow:7800 bottleneck files created.
+INFO:tensorflow:7900 bottleneck files created.
+INFO:tensorflow:8000 bottleneck files created.
+INFO:tensorflow:8100 bottleneck files created.
+INFO:tensorflow:8200 bottleneck files created.
+INFO:tensorflow:8300 bottleneck files created.
+INFO:tensorflow:8400 bottleneck files created.
+INFO:tensorflow:8500 bottleneck files created.
+INFO:tensorflow:8600 bottleneck files created.
+INFO:tensorflow:8700 bottleneck files created.
+INFO:tensorflow:8800 bottleneck files created.
+INFO:tensorflow:8900 bottleneck files created.
+INFO:tensorflow:9000 bottleneck files created.
+INFO:tensorflow:9100 bottleneck files created.
+INFO:tensorflow:9200 bottleneck files created.
+INFO:tensorflow:9300 bottleneck files created.
+INFO:tensorflow:9400 bottleneck files created.
+INFO:tensorflow:9500 bottleneck files created.
+INFO:tensorflow:9600 bottleneck files created.
+INFO:tensorflow:9700 bottleneck files created.
+INFO:tensorflow:9800 bottleneck files created.
+INFO:tensorflow:9900 bottleneck files created.
+INFO:tensorflow:10000 bottleneck files created.
+INFO:tensorflow:10100 bottleneck files created.
+INFO:tensorflow:10200 bottleneck files created.
+INFO:tensorflow:10300 bottleneck files created.
+INFO:tensorflow:10400 bottleneck files created.
+INFO:tensorflow:10500 bottleneck files created.
+INFO:tensorflow:10600 bottleneck files created.
+INFO:tensorflow:10700 bottleneck files created.
+INFO:tensorflow:10800 bottleneck files created.
+INFO:tensorflow:10900 bottleneck files created.
+INFO:tensorflow:11000 bottleneck files created.
+INFO:tensorflow:11100 bottleneck files created.
+INFO:tensorflow:11200 bottleneck files created.
+INFO:tensorflow:11300 bottleneck files created.
+INFO:tensorflow:11400 bottleneck files created.
+INFO:tensorflow:11500 bottleneck files created.
+INFO:tensorflow:11600 bottleneck files created.
+INFO:tensorflow:11700 bottleneck files created.
+INFO:tensorflow:11800 bottleneck files created.
+INFO:tensorflow:11900 bottleneck files created.
+INFO:tensorflow:12000 bottleneck files created.
+INFO:tensorflow:12100 bottleneck files created.
+INFO:tensorflow:12200 bottleneck files created.
+INFO:tensorflow:12300 bottleneck files created.
+INFO:tensorflow:12400 bottleneck files created.
+INFO:tensorflow:12500 bottleneck files created.
+INFO:tensorflow:12600 bottleneck files created.
+INFO:tensorflow:12700 bottleneck files created.
+INFO:tensorflow:12800 bottleneck files created.
+INFO:tensorflow:12900 bottleneck files created.
+INFO:tensorflow:13000 bottleneck files created.
+INFO:tensorflow:13100 bottleneck files created.
+INFO:tensorflow:13200 bottleneck files created.
+INFO:tensorflow:13300 bottleneck files created.
+INFO:tensorflow:13400 bottleneck files created.
+INFO:tensorflow:13500 bottleneck files created.
+INFO:tensorflow:13600 bottleneck files created.
+INFO:tensorflow:13700 bottleneck files created.
+INFO:tensorflow:13800 bottleneck files created.
+INFO:tensorflow:13900 bottleneck files created.
+INFO:tensorflow:14000 bottleneck files created.
+INFO:tensorflow:14100 bottleneck files created.
+INFO:tensorflow:14200 bottleneck files created.
+INFO:tensorflow:14300 bottleneck files created.
+INFO:tensorflow:14400 bottleneck files created.
+INFO:tensorflow:14500 bottleneck files created.
+INFO:tensorflow:14600 bottleneck files created.
+INFO:tensorflow:14700 bottleneck files created.
+INFO:tensorflow:14800 bottleneck files created.
+INFO:tensorflow:14900 bottleneck files created.
+INFO:tensorflow:15000 bottleneck files created.
+INFO:tensorflow:15100 bottleneck files created.
+INFO:tensorflow:15200 bottleneck files created.
+INFO:tensorflow:15300 bottleneck files created.
+INFO:tensorflow:15400 bottleneck files created.
+INFO:tensorflow:15500 bottleneck files created.
+INFO:tensorflow:15600 bottleneck files created.
+INFO:tensorflow:15700 bottleneck files created.
+INFO:tensorflow:15800 bottleneck files created.
+INFO:tensorflow:15900 bottleneck files created.
+INFO:tensorflow:16000 bottleneck files created.
+INFO:tensorflow:16100 bottleneck files created.
+INFO:tensorflow:16200 bottleneck files created.
+INFO:tensorflow:16300 bottleneck files created.
+INFO:tensorflow:16400 bottleneck files created.
+INFO:tensorflow:16500 bottleneck files created.
+INFO:tensorflow:16600 bottleneck files created.
+INFO:tensorflow:16700 bottleneck files created.
+INFO:tensorflow:16800 bottleneck files created.
+INFO:tensorflow:16900 bottleneck files created.
+INFO:tensorflow:17000 bottleneck files created.
+INFO:tensorflow:17100 bottleneck files created.
+INFO:tensorflow:17200 bottleneck files created.
+INFO:tensorflow:17300 bottleneck files created.
+INFO:tensorflow:17400 bottleneck files created.
+INFO:tensorflow:17500 bottleneck files created.
+INFO:tensorflow:17600 bottleneck files created.
+INFO:tensorflow:17700 bottleneck files created.
+INFO:tensorflow:17800 bottleneck files created.
+INFO:tensorflow:17900 bottleneck files created.
+INFO:tensorflow:18000 bottleneck files created.
+INFO:tensorflow:18100 bottleneck files created.
+INFO:tensorflow:18200 bottleneck files created.
+INFO:tensorflow:18300 bottleneck files created.
+INFO:tensorflow:18400 bottleneck files created.
+INFO:tensorflow:18500 bottleneck files created.
+INFO:tensorflow:18600 bottleneck files created.
+INFO:tensorflow:18700 bottleneck files created.
+INFO:tensorflow:18800 bottleneck files created.
+INFO:tensorflow:18900 bottleneck files created.
+INFO:tensorflow:19000 bottleneck files created.
+INFO:tensorflow:19100 bottleneck files created.
+INFO:tensorflow:19200 bottleneck files created.
+INFO:tensorflow:19300 bottleneck files created.
+INFO:tensorflow:19400 bottleneck files created.
+INFO:tensorflow:19500 bottleneck files created.
+INFO:tensorflow:19600 bottleneck files created.
+INFO:tensorflow:19700 bottleneck files created.
+INFO:tensorflow:19800 bottleneck files created.
+INFO:tensorflow:19900 bottleneck files created.
+INFO:tensorflow:20000 bottleneck files created.
+INFO:tensorflow:20100 bottleneck files created.
+INFO:tensorflow:20200 bottleneck files created.
+INFO:tensorflow:20300 bottleneck files created.
+INFO:tensorflow:20400 bottleneck files created.
+INFO:tensorflow:20500 bottleneck files created.
+INFO:tensorflow:20600 bottleneck files created.
+INFO:tensorflow:20700 bottleneck files created.
+INFO:tensorflow:20800 bottleneck files created.
+INFO:tensorflow:20900 bottleneck files created.
+INFO:tensorflow:21000 bottleneck files created.
+INFO:tensorflow:21100 bottleneck files created.
+INFO:tensorflow:21200 bottleneck files created.
+INFO:tensorflow:21300 bottleneck files created.
+INFO:tensorflow:21400 bottleneck files created.
+INFO:tensorflow:21500 bottleneck files created.
+INFO:tensorflow:21600 bottleneck files created.
+INFO:tensorflow:21700 bottleneck files created.
+INFO:tensorflow:21800 bottleneck files created.
+INFO:tensorflow:21900 bottleneck files created.
+INFO:tensorflow:22000 bottleneck files created.
+INFO:tensorflow:22100 bottleneck files created.
+INFO:tensorflow:22200 bottleneck files created.
+INFO:tensorflow:22300 bottleneck files created.
+INFO:tensorflow:22400 bottleneck files created.
+INFO:tensorflow:22500 bottleneck files created.
+INFO:tensorflow:22600 bottleneck files created.
+INFO:tensorflow:22700 bottleneck files created.
+INFO:tensorflow:22800 bottleneck files created.
+INFO:tensorflow:22900 bottleneck files created.
+INFO:tensorflow:23000 bottleneck files created.
+INFO:tensorflow:23100 bottleneck files created.
+INFO:tensorflow:23200 bottleneck files created.
+INFO:tensorflow:23300 bottleneck files created.
+INFO:tensorflow:23400 bottleneck files created.
+INFO:tensorflow:23500 bottleneck files created.
+INFO:tensorflow:23600 bottleneck files created.
+INFO:tensorflow:23700 bottleneck files created.
+INFO:tensorflow:23800 bottleneck files created.
+INFO:tensorflow:23900 bottleneck files created.
+INFO:tensorflow:24000 bottleneck files created.
+INFO:tensorflow:24100 bottleneck files created.
+INFO:tensorflow:24200 bottleneck files created.
+INFO:tensorflow:24300 bottleneck files created.
+INFO:tensorflow:24400 bottleneck files created.
+INFO:tensorflow:24500 bottleneck files created.
+INFO:tensorflow:24600 bottleneck files created.
+INFO:tensorflow:24700 bottleneck files created.
+INFO:tensorflow:24800 bottleneck files created.
+INFO:tensorflow:24900 bottleneck files created.
+INFO:tensorflow:25000 bottleneck files created.
+INFO:tensorflow:25100 bottleneck files created.
+INFO:tensorflow:25200 bottleneck files created.
+INFO:tensorflow:25300 bottleneck files created.
+INFO:tensorflow:25400 bottleneck files created.
+INFO:tensorflow:25500 bottleneck files created.
+INFO:tensorflow:25600 bottleneck files created.
+INFO:tensorflow:25700 bottleneck files created.
+INFO:tensorflow:25800 bottleneck files created.
+INFO:tensorflow:25900 bottleneck files created.
+INFO:tensorflow:26000 bottleneck files created.
+INFO:tensorflow:26100 bottleneck files created.
+INFO:tensorflow:26200 bottleneck files created.
+INFO:tensorflow:26300 bottleneck files created.
+INFO:tensorflow:26400 bottleneck files created.
+INFO:tensorflow:26500 bottleneck files created.
+INFO:tensorflow:26600 bottleneck files created.
+INFO:tensorflow:26700 bottleneck files created.
+INFO:tensorflow:26800 bottleneck files created.
+INFO:tensorflow:26900 bottleneck files created.
+INFO:tensorflow:27000 bottleneck files created.
+INFO:tensorflow:27100 bottleneck files created.
+INFO:tensorflow:27200 bottleneck files created.
+INFO:tensorflow:27300 bottleneck files created.
+INFO:tensorflow:27400 bottleneck files created.
+INFO:tensorflow:27500 bottleneck files created.
+INFO:tensorflow:27600 bottleneck files created.
+INFO:tensorflow:27700 bottleneck files created.
+INFO:tensorflow:27800 bottleneck files created.
+INFO:tensorflow:27900 bottleneck files created.
+INFO:tensorflow:28000 bottleneck files created.
+INFO:tensorflow:28100 bottleneck files created.
+INFO:tensorflow:28200 bottleneck files created.
+INFO:tensorflow:28300 bottleneck files created.
+INFO:tensorflow:28400 bottleneck files created.
+INFO:tensorflow:28500 bottleneck files created.
+INFO:tensorflow:28600 bottleneck files created.
+INFO:tensorflow:28700 bottleneck files created.
+INFO:tensorflow:28800 bottleneck files created.
+INFO:tensorflow:28900 bottleneck files created.
+INFO:tensorflow:29000 bottleneck files created.
+INFO:tensorflow:29100 bottleneck files created.
+INFO:tensorflow:29200 bottleneck files created.
+INFO:tensorflow:29300 bottleneck files created.
+INFO:tensorflow:29400 bottleneck files created.
+INFO:tensorflow:29500 bottleneck files created.
+INFO:tensorflow:29600 bottleneck files created.
+INFO:tensorflow:29700 bottleneck files created.
+INFO:tensorflow:29800 bottleneck files created.
+INFO:tensorflow:29900 bottleneck files created.
+INFO:tensorflow:30000 bottleneck files created.
+INFO:tensorflow:30100 bottleneck files created.
+INFO:tensorflow:30200 bottleneck files created.
+INFO:tensorflow:30300 bottleneck files created.
+INFO:tensorflow:30400 bottleneck files created.
+INFO:tensorflow:30500 bottleneck files created.
+INFO:tensorflow:30600 bottleneck files created.
+INFO:tensorflow:30700 bottleneck files created.
+INFO:tensorflow:30800 bottleneck files created.
+INFO:tensorflow:30900 bottleneck files created.
+INFO:tensorflow:31000 bottleneck files created.
+INFO:tensorflow:31100 bottleneck files created.
+INFO:tensorflow:31200 bottleneck files created.
+INFO:tensorflow:31300 bottleneck files created.
+INFO:tensorflow:31400 bottleneck files created.
+INFO:tensorflow:31500 bottleneck files created.
+INFO:tensorflow:31600 bottleneck files created.
+INFO:tensorflow:31700 bottleneck files created.
+INFO:tensorflow:31800 bottleneck files created.
+INFO:tensorflow:31900 bottleneck files created.
+INFO:tensorflow:32000 bottleneck files created.
+INFO:tensorflow:32100 bottleneck files created.
+INFO:tensorflow:32200 bottleneck files created.
+INFO:tensorflow:32300 bottleneck files created.
+INFO:tensorflow:32400 bottleneck files created.
+INFO:tensorflow:32500 bottleneck files created.
+INFO:tensorflow:32600 bottleneck files created.
+INFO:tensorflow:32700 bottleneck files created.
+INFO:tensorflow:32800 bottleneck files created.
+INFO:tensorflow:32900 bottleneck files created.
+INFO:tensorflow:33000 bottleneck files created.
+INFO:tensorflow:33100 bottleneck files created.
+INFO:tensorflow:33200 bottleneck files created.
+INFO:tensorflow:33300 bottleneck files created.
+INFO:tensorflow:33400 bottleneck files created.
+INFO:tensorflow:33500 bottleneck files created.
+INFO:tensorflow:33600 bottleneck files created.
+INFO:tensorflow:33700 bottleneck files created.
+INFO:tensorflow:33800 bottleneck files created.
+INFO:tensorflow:33900 bottleneck files created.
+INFO:tensorflow:34000 bottleneck files created.
+INFO:tensorflow:34100 bottleneck files created.
+INFO:tensorflow:34200 bottleneck files created.
+INFO:tensorflow:34300 bottleneck files created.
+INFO:tensorflow:34400 bottleneck files created.
+INFO:tensorflow:34500 bottleneck files created.
+INFO:tensorflow:34600 bottleneck files created.
+INFO:tensorflow:34700 bottleneck files created.
+INFO:tensorflow:34800 bottleneck files created.
+INFO:tensorflow:34900 bottleneck files created.
+INFO:tensorflow:35000 bottleneck files created.
+INFO:tensorflow:35100 bottleneck files created.
+INFO:tensorflow:35200 bottleneck files created.
+INFO:tensorflow:35300 bottleneck files created.
+INFO:tensorflow:35400 bottleneck files created.
+INFO:tensorflow:35500 bottleneck files created.
+INFO:tensorflow:35600 bottleneck files created.
+INFO:tensorflow:35700 bottleneck files created.
+INFO:tensorflow:35800 bottleneck files created.
+INFO:tensorflow:35900 bottleneck files created.
+INFO:tensorflow:36000 bottleneck files created.
+INFO:tensorflow:36100 bottleneck files created.
+INFO:tensorflow:36200 bottleneck files created.
+INFO:tensorflow:36300 bottleneck files created.
+INFO:tensorflow:36400 bottleneck files created.
+INFO:tensorflow:36500 bottleneck files created.
+INFO:tensorflow:36600 bottleneck files created.
+INFO:tensorflow:36700 bottleneck files created.
+INFO:tensorflow:36800 bottleneck files created.
+INFO:tensorflow:36900 bottleneck files created.
+INFO:tensorflow:37000 bottleneck files created.
+INFO:tensorflow:37100 bottleneck files created.
+INFO:tensorflow:37200 bottleneck files created.
+INFO:tensorflow:37300 bottleneck files created.
+INFO:tensorflow:37400 bottleneck files created.
+INFO:tensorflow:37500 bottleneck files created.
+INFO:tensorflow:37600 bottleneck files created.
+INFO:tensorflow:37700 bottleneck files created.
+INFO:tensorflow:37800 bottleneck files created.
+INFO:tensorflow:37900 bottleneck files created.
+INFO:tensorflow:38000 bottleneck files created.
+INFO:tensorflow:38100 bottleneck files created.
+INFO:tensorflow:38200 bottleneck files created.
+INFO:tensorflow:38300 bottleneck files created.
+INFO:tensorflow:38400 bottleneck files created.
+INFO:tensorflow:38500 bottleneck files created.
+INFO:tensorflow:38600 bottleneck files created.
+INFO:tensorflow:38700 bottleneck files created.
+INFO:tensorflow:38800 bottleneck files created.
+INFO:tensorflow:38900 bottleneck files created.
+INFO:tensorflow:39000 bottleneck files created.
+INFO:tensorflow:39100 bottleneck files created.
+INFO:tensorflow:39200 bottleneck files created.
+INFO:tensorflow:39300 bottleneck files created.
+INFO:tensorflow:39400 bottleneck files created.
+INFO:tensorflow:39500 bottleneck files created.
+INFO:tensorflow:39600 bottleneck files created.
+INFO:tensorflow:39700 bottleneck files created.
+INFO:tensorflow:39800 bottleneck files created.
+INFO:tensorflow:39900 bottleneck files created.
+INFO:tensorflow:40000 bottleneck files created.
+INFO:tensorflow:40100 bottleneck files created.
+INFO:tensorflow:40200 bottleneck files created.
+INFO:tensorflow:40300 bottleneck files created.
+INFO:tensorflow:40400 bottleneck files created.
+INFO:tensorflow:40500 bottleneck files created.
+INFO:tensorflow:40600 bottleneck files created.
+INFO:tensorflow:40700 bottleneck files created.
+INFO:tensorflow:40800 bottleneck files created.
+INFO:tensorflow:40900 bottleneck files created.
+INFO:tensorflow:41000 bottleneck files created.
+INFO:tensorflow:41100 bottleneck files created.
+INFO:tensorflow:41200 bottleneck files created.
+INFO:tensorflow:41300 bottleneck files created.
+INFO:tensorflow:41400 bottleneck files created.
+INFO:tensorflow:41500 bottleneck files created.
+INFO:tensorflow:41600 bottleneck files created.
+INFO:tensorflow:41700 bottleneck files created.
+INFO:tensorflow:41800 bottleneck files created.
+INFO:tensorflow:41900 bottleneck files created.
+INFO:tensorflow:42000 bottleneck files created.
+INFO:tensorflow:42100 bottleneck files created.
+INFO:tensorflow:42200 bottleneck files created.
+INFO:tensorflow:42300 bottleneck files created.
+INFO:tensorflow:42400 bottleneck files created.
+INFO:tensorflow:42500 bottleneck files created.
+INFO:tensorflow:42600 bottleneck files created.
+INFO:tensorflow:42700 bottleneck files created.
+INFO:tensorflow:42800 bottleneck files created.
+INFO:tensorflow:42900 bottleneck files created.
+INFO:tensorflow:43000 bottleneck files created.
+INFO:tensorflow:43100 bottleneck files created.
+INFO:tensorflow:43200 bottleneck files created.
+INFO:tensorflow:43300 bottleneck files created.
+INFO:tensorflow:43400 bottleneck files created.
+INFO:tensorflow:43500 bottleneck files created.
+INFO:tensorflow:43600 bottleneck files created.
+INFO:tensorflow:43700 bottleneck files created.
+INFO:tensorflow:43800 bottleneck files created.
+INFO:tensorflow:43900 bottleneck files created.
+INFO:tensorflow:44000 bottleneck files created.
+INFO:tensorflow:44100 bottleneck files created.
+INFO:tensorflow:44200 bottleneck files created.
+INFO:tensorflow:44300 bottleneck files created.
+INFO:tensorflow:44400 bottleneck files created.
+INFO:tensorflow:44500 bottleneck files created.
+INFO:tensorflow:44600 bottleneck files created.
+INFO:tensorflow:44700 bottleneck files created.
+INFO:tensorflow:44800 bottleneck files created.
+INFO:tensorflow:44900 bottleneck files created.
+INFO:tensorflow:45000 bottleneck files created.
+INFO:tensorflow:45100 bottleneck files created.
+INFO:tensorflow:45200 bottleneck files created.
+INFO:tensorflow:45300 bottleneck files created.
+INFO:tensorflow:45400 bottleneck files created.
+INFO:tensorflow:45500 bottleneck files created.
+INFO:tensorflow:45600 bottleneck files created.
+INFO:tensorflow:45700 bottleneck files created.
+INFO:tensorflow:45800 bottleneck files created.
+INFO:tensorflow:45900 bottleneck files created.
+INFO:tensorflow:46000 bottleneck files created.
+INFO:tensorflow:46100 bottleneck files created.
+INFO:tensorflow:46200 bottleneck files created.
+INFO:tensorflow:46300 bottleneck files created.
+INFO:tensorflow:46400 bottleneck files created.
+INFO:tensorflow:46500 bottleneck files created.
+INFO:tensorflow:46600 bottleneck files created.
+INFO:tensorflow:46700 bottleneck files created.
+INFO:tensorflow:46800 bottleneck files created.
+INFO:tensorflow:46900 bottleneck files created.
+INFO:tensorflow:47000 bottleneck files created.
+INFO:tensorflow:47100 bottleneck files created.
+INFO:tensorflow:47200 bottleneck files created.
+INFO:tensorflow:47300 bottleneck files created.
+INFO:tensorflow:47400 bottleneck files created.
+INFO:tensorflow:47500 bottleneck files created.
+INFO:tensorflow:47600 bottleneck files created.
+INFO:tensorflow:47700 bottleneck files created.
+INFO:tensorflow:47800 bottleneck files created.
+INFO:tensorflow:47900 bottleneck files created.
+INFO:tensorflow:48000 bottleneck files created.
+INFO:tensorflow:48100 bottleneck files created.
+INFO:tensorflow:48200 bottleneck files created.
+INFO:tensorflow:48300 bottleneck files created.
+INFO:tensorflow:48400 bottleneck files created.
+INFO:tensorflow:48500 bottleneck files created.
+INFO:tensorflow:48600 bottleneck files created.
+INFO:tensorflow:48700 bottleneck files created.
+INFO:tensorflow:48800 bottleneck files created.
+INFO:tensorflow:48900 bottleneck files created.
+INFO:tensorflow:49000 bottleneck files created.
+INFO:tensorflow:49100 bottleneck files created.
+INFO:tensorflow:49200 bottleneck files created.
+INFO:tensorflow:49300 bottleneck files created.
+INFO:tensorflow:49400 bottleneck files created.
+INFO:tensorflow:49500 bottleneck files created.
+INFO:tensorflow:49600 bottleneck files created.
+INFO:tensorflow:49700 bottleneck files created.
+INFO:tensorflow:49800 bottleneck files created.
+INFO:tensorflow:49900 bottleneck files created.
+INFO:tensorflow:50000 bottleneck files created.
+INFO:tensorflow:50100 bottleneck files created.
+INFO:tensorflow:50200 bottleneck files created.
+INFO:tensorflow:50300 bottleneck files created.
+INFO:tensorflow:50400 bottleneck files created.
+INFO:tensorflow:50500 bottleneck files created.
+INFO:tensorflow:50600 bottleneck files created.
+INFO:tensorflow:50700 bottleneck files created.
+INFO:tensorflow:50800 bottleneck files created.
+INFO:tensorflow:50900 bottleneck files created.
+INFO:tensorflow:51000 bottleneck files created.
+------------------------------------------------------------------
+2018-01-16 01:24:11.878455
+INFO:tensorflow:Step 0: Train accuracy = 27.3%
+INFO:tensorflow:Step 0: Cross entropy = 1.367640
+INFO:tensorflow:Step 0: Validation accuracy = 26.4% (N=671)
+INFO:tensorflow:Step 0: Val Cross entropy = 1.400504
+------------------------------------------------------------------
+2018-01-16 01:26:06.991629
+INFO:tensorflow:Step 1000: Train accuracy = 64.1%
+INFO:tensorflow:Step 1000: Cross entropy = 0.819601
+INFO:tensorflow:Step 1000: Validation accuracy = 60.1% (N=671)
+INFO:tensorflow:Step 1000: Val Cross entropy = 0.779465
+------------------------------------------------------------------
+New best step 1000, train cross entropy = 0.8196005821228027, train acc = 64.0625%
+New best step 1000, val cross entropy = 0.7794645428657532, val acc = 60.05961298942566%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 01:28:03.008419
+INFO:tensorflow:Step 2000: Train accuracy = 59.4%
+INFO:tensorflow:Step 2000: Cross entropy = 0.814327
+INFO:tensorflow:Step 2000: Validation accuracy = 62.1% (N=671)
+INFO:tensorflow:Step 2000: Val Cross entropy = 0.756821
+------------------------------------------------------------------
+New best step 2000, train cross entropy = 0.8143270015716553, train acc = 59.375%
+New best step 2000, val cross entropy = 0.75682133436203, val acc = 62.1460497379303%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 01:29:53.444166
+INFO:tensorflow:Step 3000: Train accuracy = 68.8%
+INFO:tensorflow:Step 3000: Cross entropy = 0.724878
+INFO:tensorflow:Step 3000: Validation accuracy = 64.5% (N=671)
+INFO:tensorflow:Step 3000: Val Cross entropy = 0.739630
+------------------------------------------------------------------
+New best step 3000, train cross entropy = 0.724878191947937, train acc = 68.75%
+New best step 3000, val cross entropy = 0.7396304607391357, val acc = 64.53055143356323%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 01:31:49.050309
+INFO:tensorflow:Step 4000: Train accuracy = 70.3%
+INFO:tensorflow:Step 4000: Cross entropy = 0.714795
+INFO:tensorflow:Step 4000: Validation accuracy = 67.8% (N=671)
+INFO:tensorflow:Step 4000: Val Cross entropy = 0.698029
+------------------------------------------------------------------
+New best step 4000, train cross entropy = 0.7147949934005737, train acc = 70.3125%
+New best step 4000, val cross entropy = 0.6980289220809937, val acc = 67.80924201011658%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 01:33:42.868514
+INFO:tensorflow:Step 5000: Train accuracy = 68.8%
+INFO:tensorflow:Step 5000: Cross entropy = 0.708630
+INFO:tensorflow:Step 5000: Validation accuracy = 65.0% (N=671)
+INFO:tensorflow:Step 5000: Val Cross entropy = 0.707204
+------------------------------------------------------------------
+2018-01-16 01:35:35.339866
+INFO:tensorflow:Step 6000: Train accuracy = 76.6%
+INFO:tensorflow:Step 6000: Cross entropy = 0.594571
+INFO:tensorflow:Step 6000: Validation accuracy = 65.6% (N=671)
+INFO:tensorflow:Step 6000: Val Cross entropy = 0.734029
+------------------------------------------------------------------
+2018-01-16 01:37:29.140606
+INFO:tensorflow:Step 7000: Train accuracy = 71.1%
+INFO:tensorflow:Step 7000: Cross entropy = 0.612705
+INFO:tensorflow:Step 7000: Validation accuracy = 64.4% (N=671)
+INFO:tensorflow:Step 7000: Val Cross entropy = 0.673363
+------------------------------------------------------------------
+2018-01-16 01:39:23.270772
+INFO:tensorflow:Step 8000: Train accuracy = 72.7%
+INFO:tensorflow:Step 8000: Cross entropy = 0.666108
+INFO:tensorflow:Step 8000: Validation accuracy = 66.8% (N=671)
+INFO:tensorflow:Step 8000: Val Cross entropy = 0.685527
+------------------------------------------------------------------
+2018-01-16 01:41:18.921070
+INFO:tensorflow:Step 9000: Train accuracy = 63.3%
+INFO:tensorflow:Step 9000: Cross entropy = 0.686971
+INFO:tensorflow:Step 9000: Validation accuracy = 66.3% (N=671)
+INFO:tensorflow:Step 9000: Val Cross entropy = 0.717438
+------------------------------------------------------------------
+2018-01-16 01:43:12.663621
+INFO:tensorflow:Step 10000: Train accuracy = 75.8%
+INFO:tensorflow:Step 10000: Cross entropy = 0.552684
+INFO:tensorflow:Step 10000: Validation accuracy = 69.3% (N=671)
+INFO:tensorflow:Step 10000: Val Cross entropy = 0.676935
+------------------------------------------------------------------
+New best step 10000, train cross entropy = 0.5526836514472961, train acc = 75.78125%
+New best step 10000, val cross entropy = 0.6769345998764038, val acc = 69.2995548248291%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 01:45:04.660009
+INFO:tensorflow:Step 11000: Train accuracy = 68.0%
+INFO:tensorflow:Step 11000: Cross entropy = 0.757831
+INFO:tensorflow:Step 11000: Validation accuracy = 66.2% (N=671)
+INFO:tensorflow:Step 11000: Val Cross entropy = 0.736763
+------------------------------------------------------------------
+2018-01-16 01:47:00.175094
+INFO:tensorflow:Step 12000: Train accuracy = 74.2%
+INFO:tensorflow:Step 12000: Cross entropy = 0.631950
+INFO:tensorflow:Step 12000: Validation accuracy = 65.9% (N=671)
+INFO:tensorflow:Step 12000: Val Cross entropy = 0.692539
+------------------------------------------------------------------
+2018-01-16 01:48:53.795655
+INFO:tensorflow:Step 13000: Train accuracy = 70.3%
+INFO:tensorflow:Step 13000: Cross entropy = 0.597095
+INFO:tensorflow:Step 13000: Validation accuracy = 65.7% (N=671)
+INFO:tensorflow:Step 13000: Val Cross entropy = 0.670411
+------------------------------------------------------------------
+2018-01-16 01:50:48.161128
+INFO:tensorflow:Step 14000: Train accuracy = 67.2%
+INFO:tensorflow:Step 14000: Cross entropy = 0.646717
+INFO:tensorflow:Step 14000: Validation accuracy = 63.5% (N=671)
+INFO:tensorflow:Step 14000: Val Cross entropy = 0.719364
+------------------------------------------------------------------
+2018-01-16 01:52:41.238791
+INFO:tensorflow:Step 15000: Train accuracy = 75.8%
+INFO:tensorflow:Step 15000: Cross entropy = 0.529392
+INFO:tensorflow:Step 15000: Validation accuracy = 70.8% (N=671)
+INFO:tensorflow:Step 15000: Val Cross entropy = 0.632765
+------------------------------------------------------------------
+New best step 15000, train cross entropy = 0.5293922424316406, train acc = 75.78125%
+New best step 15000, val cross entropy = 0.6327651143074036, val acc = 70.78986763954163%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 01:54:34.368120
+INFO:tensorflow:Step 16000: Train accuracy = 73.4%
+INFO:tensorflow:Step 16000: Cross entropy = 0.603291
+INFO:tensorflow:Step 16000: Validation accuracy = 70.9% (N=671)
+INFO:tensorflow:Step 16000: Val Cross entropy = 0.634239
+------------------------------------------------------------------
+2018-01-16 01:56:22.523988
+INFO:tensorflow:Step 17000: Train accuracy = 73.4%
+INFO:tensorflow:Step 17000: Cross entropy = 0.600319
+INFO:tensorflow:Step 17000: Validation accuracy = 70.8% (N=671)
+INFO:tensorflow:Step 17000: Val Cross entropy = 0.649298
+------------------------------------------------------------------
+2018-01-16 01:58:11.543917
+INFO:tensorflow:Step 18000: Train accuracy = 76.6%
+INFO:tensorflow:Step 18000: Cross entropy = 0.587853
+INFO:tensorflow:Step 18000: Validation accuracy = 73.3% (N=671)
+INFO:tensorflow:Step 18000: Val Cross entropy = 0.650603
+------------------------------------------------------------------
+2018-01-16 02:00:00.464679
+INFO:tensorflow:Step 19000: Train accuracy = 71.1%
+INFO:tensorflow:Step 19000: Cross entropy = 0.595281
+INFO:tensorflow:Step 19000: Validation accuracy = 73.0% (N=671)
+INFO:tensorflow:Step 19000: Val Cross entropy = 0.613893
+------------------------------------------------------------------
+New best step 19000, train cross entropy = 0.5952809453010559, train acc = 71.09375%
+New best step 19000, val cross entropy = 0.6138928532600403, val acc = 73.02533388137817%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 02:01:51.209021
+INFO:tensorflow:Step 20000: Train accuracy = 75.8%
+INFO:tensorflow:Step 20000: Cross entropy = 0.523961
+INFO:tensorflow:Step 20000: Validation accuracy = 67.8% (N=671)
+INFO:tensorflow:Step 20000: Val Cross entropy = 0.647385
+------------------------------------------------------------------
+2018-01-16 02:03:40.441172
+INFO:tensorflow:Step 21000: Train accuracy = 73.4%
+INFO:tensorflow:Step 21000: Cross entropy = 0.659949
+INFO:tensorflow:Step 21000: Validation accuracy = 71.1% (N=671)
+INFO:tensorflow:Step 21000: Val Cross entropy = 0.616912
+------------------------------------------------------------------
+2018-01-16 02:05:26.439146
+INFO:tensorflow:Step 22000: Train accuracy = 78.1%
+INFO:tensorflow:Step 22000: Cross entropy = 0.581050
+INFO:tensorflow:Step 22000: Validation accuracy = 73.9% (N=671)
+INFO:tensorflow:Step 22000: Val Cross entropy = 0.640263
+------------------------------------------------------------------
+2018-01-16 02:07:20.874206
+INFO:tensorflow:Step 23000: Train accuracy = 75.0%
+INFO:tensorflow:Step 23000: Cross entropy = 0.596389
+INFO:tensorflow:Step 23000: Validation accuracy = 73.5% (N=671)
+INFO:tensorflow:Step 23000: Val Cross entropy = 0.585808
+------------------------------------------------------------------
+New best step 23000, train cross entropy = 0.5963889956474304, train acc = 75.0%
+New best step 23000, val cross entropy = 0.5858080983161926, val acc = 73.47242832183838%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 02:09:14.489790
+INFO:tensorflow:Step 24000: Train accuracy = 68.8%
+INFO:tensorflow:Step 24000: Cross entropy = 0.686249
+INFO:tensorflow:Step 24000: Validation accuracy = 75.9% (N=671)
+INFO:tensorflow:Step 24000: Val Cross entropy = 0.583527
+------------------------------------------------------------------
+New best step 24000, train cross entropy = 0.686249315738678, train acc = 68.75%
+New best step 24000, val cross entropy = 0.583526611328125, val acc = 75.85693001747131%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 02:11:09.910434
+INFO:tensorflow:Step 25000: Train accuracy = 80.5%
+INFO:tensorflow:Step 25000: Cross entropy = 0.501039
+INFO:tensorflow:Step 25000: Validation accuracy = 74.1% (N=671)
+INFO:tensorflow:Step 25000: Val Cross entropy = 0.613528
+------------------------------------------------------------------
+2018-01-16 02:13:01.625053
+INFO:tensorflow:Step 26000: Train accuracy = 78.9%
+INFO:tensorflow:Step 26000: Cross entropy = 0.549930
+INFO:tensorflow:Step 26000: Validation accuracy = 72.0% (N=671)
+INFO:tensorflow:Step 26000: Val Cross entropy = 0.619153
+------------------------------------------------------------------
+2018-01-16 02:14:53.985100
+INFO:tensorflow:Step 27000: Train accuracy = 71.1%
+INFO:tensorflow:Step 27000: Cross entropy = 0.699399
+INFO:tensorflow:Step 27000: Validation accuracy = 71.2% (N=671)
+INFO:tensorflow:Step 27000: Val Cross entropy = 0.655381
+------------------------------------------------------------------
+2018-01-16 02:16:44.386453
+INFO:tensorflow:Step 28000: Train accuracy = 78.9%
+INFO:tensorflow:Step 28000: Cross entropy = 0.556006
+INFO:tensorflow:Step 28000: Validation accuracy = 74.7% (N=671)
+INFO:tensorflow:Step 28000: Val Cross entropy = 0.610598
+------------------------------------------------------------------
+2018-01-16 02:18:38.824818
+INFO:tensorflow:Step 29000: Train accuracy = 82.8%
+INFO:tensorflow:Step 29000: Cross entropy = 0.507199
+INFO:tensorflow:Step 29000: Validation accuracy = 70.9% (N=671)
+INFO:tensorflow:Step 29000: Val Cross entropy = 0.632646
+------------------------------------------------------------------
+2018-01-16 02:20:33.283676
+INFO:tensorflow:Step 30000: Train accuracy = 78.9%
+INFO:tensorflow:Step 30000: Cross entropy = 0.525224
+INFO:tensorflow:Step 30000: Validation accuracy = 70.8% (N=671)
+INFO:tensorflow:Step 30000: Val Cross entropy = 0.610071
+------------------------------------------------------------------
+2018-01-16 02:22:27.087836
+INFO:tensorflow:Step 31000: Train accuracy = 73.4%
+INFO:tensorflow:Step 31000: Cross entropy = 0.621175
+INFO:tensorflow:Step 31000: Validation accuracy = 69.4% (N=671)
+INFO:tensorflow:Step 31000: Val Cross entropy = 0.640505
+------------------------------------------------------------------
+2018-01-16 02:24:18.330630
+INFO:tensorflow:Step 32000: Train accuracy = 71.1%
+INFO:tensorflow:Step 32000: Cross entropy = 0.631628
+INFO:tensorflow:Step 32000: Validation accuracy = 74.2% (N=671)
+INFO:tensorflow:Step 32000: Val Cross entropy = 0.580191
+------------------------------------------------------------------
+2018-01-16 02:26:11.918702
+INFO:tensorflow:Step 33000: Train accuracy = 76.6%
+INFO:tensorflow:Step 33000: Cross entropy = 0.538431
+INFO:tensorflow:Step 33000: Validation accuracy = 69.6% (N=671)
+INFO:tensorflow:Step 33000: Val Cross entropy = 0.637831
+------------------------------------------------------------------
+2018-01-16 02:28:05.540007
+INFO:tensorflow:Step 34000: Train accuracy = 79.7%
+INFO:tensorflow:Step 34000: Cross entropy = 0.516446
+INFO:tensorflow:Step 34000: Validation accuracy = 70.8% (N=671)
+INFO:tensorflow:Step 34000: Val Cross entropy = 0.619825
+------------------------------------------------------------------
+2018-01-16 02:30:00.798505
+INFO:tensorflow:Step 35000: Train accuracy = 74.2%
+INFO:tensorflow:Step 35000: Cross entropy = 0.491802
+INFO:tensorflow:Step 35000: Validation accuracy = 78.1% (N=671)
+INFO:tensorflow:Step 35000: Val Cross entropy = 0.598833
+------------------------------------------------------------------
+2018-01-16 02:31:54.922520
+INFO:tensorflow:Step 36000: Train accuracy = 80.5%
+INFO:tensorflow:Step 36000: Cross entropy = 0.496319
+INFO:tensorflow:Step 36000: Validation accuracy = 72.1% (N=671)
+INFO:tensorflow:Step 36000: Val Cross entropy = 0.609883
+------------------------------------------------------------------
+2018-01-16 02:33:50.664632
+INFO:tensorflow:Step 37000: Train accuracy = 78.9%
+INFO:tensorflow:Step 37000: Cross entropy = 0.468481
+INFO:tensorflow:Step 37000: Validation accuracy = 73.3% (N=671)
+INFO:tensorflow:Step 37000: Val Cross entropy = 0.602820
+------------------------------------------------------------------
+2018-01-16 02:35:44.034750
+INFO:tensorflow:Step 38000: Train accuracy = 82.8%
+INFO:tensorflow:Step 38000: Cross entropy = 0.515113
+INFO:tensorflow:Step 38000: Validation accuracy = 71.5% (N=671)
+INFO:tensorflow:Step 38000: Val Cross entropy = 0.600227
+------------------------------------------------------------------
+2018-01-16 02:37:36.976957
+INFO:tensorflow:Step 39000: Train accuracy = 78.9%
+INFO:tensorflow:Step 39000: Cross entropy = 0.478030
+INFO:tensorflow:Step 39000: Validation accuracy = 75.3% (N=671)
+INFO:tensorflow:Step 39000: Val Cross entropy = 0.597888
+------------------------------------------------------------------
+2018-01-16 02:39:31.682941
+INFO:tensorflow:Step 40000: Train accuracy = 80.5%
+INFO:tensorflow:Step 40000: Cross entropy = 0.505486
+INFO:tensorflow:Step 40000: Validation accuracy = 75.0% (N=671)
+INFO:tensorflow:Step 40000: Val Cross entropy = 0.578402
+------------------------------------------------------------------
+2018-01-16 02:41:29.110021
+INFO:tensorflow:Step 41000: Train accuracy = 86.7%
+INFO:tensorflow:Step 41000: Cross entropy = 0.413837
+INFO:tensorflow:Step 41000: Validation accuracy = 73.0% (N=671)
+INFO:tensorflow:Step 41000: Val Cross entropy = 0.602477
+------------------------------------------------------------------
+2018-01-16 02:43:23.645018
+INFO:tensorflow:Step 42000: Train accuracy = 78.1%
+INFO:tensorflow:Step 42000: Cross entropy = 0.535531
+INFO:tensorflow:Step 42000: Validation accuracy = 71.5% (N=671)
+INFO:tensorflow:Step 42000: Val Cross entropy = 0.605948
+------------------------------------------------------------------
+2018-01-16 02:45:25.874879
+INFO:tensorflow:Step 43000: Train accuracy = 75.0%
+INFO:tensorflow:Step 43000: Cross entropy = 0.518124
+INFO:tensorflow:Step 43000: Validation accuracy = 72.9% (N=671)
+INFO:tensorflow:Step 43000: Val Cross entropy = 0.628392
+------------------------------------------------------------------
+2018-01-16 02:47:26.942472
+INFO:tensorflow:Step 44000: Train accuracy = 71.9%
+INFO:tensorflow:Step 44000: Cross entropy = 0.646125
+INFO:tensorflow:Step 44000: Validation accuracy = 69.9% (N=671)
+INFO:tensorflow:Step 44000: Val Cross entropy = 0.634005
+------------------------------------------------------------------
+2018-01-16 02:49:21.476477
+INFO:tensorflow:Step 45000: Train accuracy = 80.5%
+INFO:tensorflow:Step 45000: Cross entropy = 0.525427
+INFO:tensorflow:Step 45000: Validation accuracy = 74.4% (N=671)
+INFO:tensorflow:Step 45000: Val Cross entropy = 0.586158
+------------------------------------------------------------------
+2018-01-16 02:51:00.576401
+INFO:tensorflow:Step 46000: Train accuracy = 79.7%
+INFO:tensorflow:Step 46000: Cross entropy = 0.529293
+INFO:tensorflow:Step 46000: Validation accuracy = 76.3% (N=671)
+INFO:tensorflow:Step 46000: Val Cross entropy = 0.600961
+------------------------------------------------------------------
+2018-01-16 02:52:41.777200
+INFO:tensorflow:Step 47000: Train accuracy = 74.2%
+INFO:tensorflow:Step 47000: Cross entropy = 0.556768
+INFO:tensorflow:Step 47000: Validation accuracy = 72.7% (N=671)
+INFO:tensorflow:Step 47000: Val Cross entropy = 0.617967
+------------------------------------------------------------------
+2018-01-16 02:54:22.648361
+INFO:tensorflow:Step 48000: Train accuracy = 77.3%
+INFO:tensorflow:Step 48000: Cross entropy = 0.542172
+INFO:tensorflow:Step 48000: Validation accuracy = 72.3% (N=671)
+INFO:tensorflow:Step 48000: Val Cross entropy = 0.610535
+------------------------------------------------------------------
+2018-01-16 02:56:05.907618
+INFO:tensorflow:Step 49000: Train accuracy = 78.9%
+INFO:tensorflow:Step 49000: Cross entropy = 0.538809
+INFO:tensorflow:Step 49000: Validation accuracy = 72.3% (N=671)
+INFO:tensorflow:Step 49000: Val Cross entropy = 0.644861
+------------------------------------------------------------------
+2018-01-16 02:57:48.767160
+INFO:tensorflow:Step 50000: Train accuracy = 75.8%
+INFO:tensorflow:Step 50000: Cross entropy = 0.514243
+INFO:tensorflow:Step 50000: Validation accuracy = 72.4% (N=671)
+INFO:tensorflow:Step 50000: Val Cross entropy = 0.658444
+------------------------------------------------------------------
+2018-01-16 02:59:32.599529
+INFO:tensorflow:Step 51000: Train accuracy = 75.0%
+INFO:tensorflow:Step 51000: Cross entropy = 0.575639
+INFO:tensorflow:Step 51000: Validation accuracy = 74.5% (N=671)
+INFO:tensorflow:Step 51000: Val Cross entropy = 0.642664
+------------------------------------------------------------------
+2018-01-16 03:01:17.763315
+INFO:tensorflow:Step 52000: Train accuracy = 81.2%
+INFO:tensorflow:Step 52000: Cross entropy = 0.506683
+INFO:tensorflow:Step 52000: Validation accuracy = 73.0% (N=671)
+INFO:tensorflow:Step 52000: Val Cross entropy = 0.617736
+------------------------------------------------------------------
+2018-01-16 03:03:03.688379
+INFO:tensorflow:Step 53000: Train accuracy = 78.1%
+INFO:tensorflow:Step 53000: Cross entropy = 0.477577
+INFO:tensorflow:Step 53000: Validation accuracy = 76.9% (N=671)
+INFO:tensorflow:Step 53000: Val Cross entropy = 0.605829
+------------------------------------------------------------------
+2018-01-16 03:04:47.375431
+INFO:tensorflow:Step 54000: Train accuracy = 79.7%
+INFO:tensorflow:Step 54000: Cross entropy = 0.449818
+INFO:tensorflow:Step 54000: Validation accuracy = 72.7% (N=671)
+INFO:tensorflow:Step 54000: Val Cross entropy = 0.602437
+------------------------------------------------------------------
+2018-01-16 03:06:24.631286
+INFO:tensorflow:Step 55000: Train accuracy = 73.4%
+INFO:tensorflow:Step 55000: Cross entropy = 0.549893
+INFO:tensorflow:Step 55000: Validation accuracy = 71.1% (N=671)
+INFO:tensorflow:Step 55000: Val Cross entropy = 0.708968
+------------------------------------------------------------------
+2018-01-16 03:08:00.180626
+INFO:tensorflow:Step 56000: Train accuracy = 74.2%
+INFO:tensorflow:Step 56000: Cross entropy = 0.541533
+INFO:tensorflow:Step 56000: Validation accuracy = 75.3% (N=671)
+INFO:tensorflow:Step 56000: Val Cross entropy = 0.591742
+------------------------------------------------------------------
+2018-01-16 03:09:36.020262
+INFO:tensorflow:Step 57000: Train accuracy = 72.7%
+INFO:tensorflow:Step 57000: Cross entropy = 0.653652
+INFO:tensorflow:Step 57000: Validation accuracy = 74.8% (N=671)
+INFO:tensorflow:Step 57000: Val Cross entropy = 0.587705
+------------------------------------------------------------------
+2018-01-16 03:11:11.751209
+INFO:tensorflow:Step 58000: Train accuracy = 73.4%
+INFO:tensorflow:Step 58000: Cross entropy = 0.680431
+INFO:tensorflow:Step 58000: Validation accuracy = 72.6% (N=671)
+INFO:tensorflow:Step 58000: Val Cross entropy = 0.627333
+------------------------------------------------------------------
+2018-01-16 03:12:48.263103
+INFO:tensorflow:Step 59000: Train accuracy = 86.7%
+INFO:tensorflow:Step 59000: Cross entropy = 0.401311
+INFO:tensorflow:Step 59000: Validation accuracy = 74.2% (N=671)
+INFO:tensorflow:Step 59000: Val Cross entropy = 0.613356
+------------------------------------------------------------------
+2018-01-16 03:14:23.777392
+INFO:tensorflow:Step 60000: Train accuracy = 79.7%
+INFO:tensorflow:Step 60000: Cross entropy = 0.455559
+INFO:tensorflow:Step 60000: Validation accuracy = 77.6% (N=671)
+INFO:tensorflow:Step 60000: Val Cross entropy = 0.549348
+------------------------------------------------------------------
+New best step 60000, train cross entropy = 0.4555588960647583, train acc = 79.6875%
+New best step 60000, val cross entropy = 0.5493481755256653, val acc = 77.64530777931213%
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.
+------------------------------------------------------------------
+2018-01-16 03:16:00.829978
+INFO:tensorflow:Step 61000: Train accuracy = 77.3%
+INFO:tensorflow:Step 61000: Cross entropy = 0.507230
+INFO:tensorflow:Step 61000: Validation accuracy = 71.4% (N=671)
+INFO:tensorflow:Step 61000: Val Cross entropy = 0.645270
+------------------------------------------------------------------
+2018-01-16 03:17:36.484671
+INFO:tensorflow:Step 62000: Train accuracy = 79.7%
+INFO:tensorflow:Step 62000: Cross entropy = 0.489146
+INFO:tensorflow:Step 62000: Validation accuracy = 70.9% (N=671)
+INFO:tensorflow:Step 62000: Val Cross entropy = 0.654454
+------------------------------------------------------------------
+2018-01-16 03:19:12.421734
+INFO:tensorflow:Step 63000: Train accuracy = 81.2%
+INFO:tensorflow:Step 63000: Cross entropy = 0.493832
+INFO:tensorflow:Step 63000: Validation accuracy = 74.7% (N=671)
+INFO:tensorflow:Step 63000: Val Cross entropy = 0.614957
+------------------------------------------------------------------
+2018-01-16 03:20:47.920340
+INFO:tensorflow:Step 64000: Train accuracy = 82.0%
+INFO:tensorflow:Step 64000: Cross entropy = 0.508521
+INFO:tensorflow:Step 64000: Validation accuracy = 77.3% (N=671)
+INFO:tensorflow:Step 64000: Val Cross entropy = 0.571500
+------------------------------------------------------------------
+2018-01-16 03:22:24.646656
+INFO:tensorflow:Step 65000: Train accuracy = 74.2%
+INFO:tensorflow:Step 65000: Cross entropy = 0.584518
+INFO:tensorflow:Step 65000: Validation accuracy = 75.0% (N=671)
+INFO:tensorflow:Step 65000: Val Cross entropy = 0.607893
+------------------------------------------------------------------
+2018-01-16 03:24:01.245447
+INFO:tensorflow:Step 66000: Train accuracy = 69.5%
+INFO:tensorflow:Step 66000: Cross entropy = 0.639590
+INFO:tensorflow:Step 66000: Validation accuracy = 75.6% (N=671)
+INFO:tensorflow:Step 66000: Val Cross entropy = 0.625448
+------------------------------------------------------------------
+2018-01-16 03:30:24.183660
+INFO:tensorflow:Step 67000: Train accuracy = 78.9%
+INFO:tensorflow:Step 67000: Cross entropy = 0.541643
+INFO:tensorflow:Step 67000: Validation accuracy = 72.7% (N=671)
+INFO:tensorflow:Step 67000: Val Cross entropy = 0.609399
+------------------------------------------------------------------
+2018-01-16 03:32:32.193434
+INFO:tensorflow:Step 68000: Train accuracy = 79.7%
+INFO:tensorflow:Step 68000: Cross entropy = 0.434308
+INFO:tensorflow:Step 68000: Validation accuracy = 76.6% (N=671)
+INFO:tensorflow:Step 68000: Val Cross entropy = 0.634177
+------------------------------------------------------------------
+2018-01-16 03:34:13.090785
+INFO:tensorflow:Step 69000: Train accuracy = 76.6%
+INFO:tensorflow:Step 69000: Cross entropy = 0.510906
+INFO:tensorflow:Step 69000: Validation accuracy = 73.9% (N=671)
+INFO:tensorflow:Step 69000: Val Cross entropy = 0.636144
+------------------------------------------------------------------
+2018-01-16 03:35:50.024816
+INFO:tensorflow:Step 70000: Train accuracy = 79.7%
+INFO:tensorflow:Step 70000: Cross entropy = 0.457941
+INFO:tensorflow:Step 70000: Validation accuracy = 73.5% (N=671)
+INFO:tensorflow:Step 70000: Val Cross entropy = 0.615285
+------------------------------------------------------------------
+2018-01-16 03:37:26.683330
+INFO:tensorflow:Step 71000: Train accuracy = 81.2%
+INFO:tensorflow:Step 71000: Cross entropy = 0.472841
+INFO:tensorflow:Step 71000: Validation accuracy = 75.0% (N=671)
+INFO:tensorflow:Step 71000: Val Cross entropy = 0.605789
+------------------------------------------------------------------
+2018-01-16 03:39:03.341027
+INFO:tensorflow:Step 72000: Train accuracy = 78.9%
+INFO:tensorflow:Step 72000: Cross entropy = 0.518722
+INFO:tensorflow:Step 72000: Validation accuracy = 71.5% (N=671)
+INFO:tensorflow:Step 72000: Val Cross entropy = 0.630311
+------------------------------------------------------------------
+2018-01-16 03:40:39.899187
+INFO:tensorflow:Step 73000: Train accuracy = 78.1%
+INFO:tensorflow:Step 73000: Cross entropy = 0.484144
+INFO:tensorflow:Step 73000: Validation accuracy = 77.6% (N=671)
+INFO:tensorflow:Step 73000: Val Cross entropy = 0.586332
+------------------------------------------------------------------
+2018-01-16 03:42:16.773133
+INFO:tensorflow:Step 74000: Train accuracy = 76.6%
+INFO:tensorflow:Step 74000: Cross entropy = 0.498983
+INFO:tensorflow:Step 74000: Validation accuracy = 72.9% (N=671)
+INFO:tensorflow:Step 74000: Val Cross entropy = 0.651383
+------------------------------------------------------------------
+2018-01-16 03:43:53.457587
+INFO:tensorflow:Step 75000: Train accuracy = 78.1%
+INFO:tensorflow:Step 75000: Cross entropy = 0.474178
+INFO:tensorflow:Step 75000: Validation accuracy = 73.8% (N=671)
+INFO:tensorflow:Step 75000: Val Cross entropy = 0.576944
+------------------------------------------------------------------
+2018-01-16 03:45:30.191519
+INFO:tensorflow:Step 76000: Train accuracy = 82.0%
+INFO:tensorflow:Step 76000: Cross entropy = 0.453294
+INFO:tensorflow:Step 76000: Validation accuracy = 72.0% (N=671)
+INFO:tensorflow:Step 76000: Val Cross entropy = 0.660456
+------------------------------------------------------------------
+2018-01-16 03:47:06.920937
+INFO:tensorflow:Step 77000: Train accuracy = 78.9%
+INFO:tensorflow:Step 77000: Cross entropy = 0.512102
+INFO:tensorflow:Step 77000: Validation accuracy = 73.6% (N=671)
+INFO:tensorflow:Step 77000: Val Cross entropy = 0.581292
+------------------------------------------------------------------
+2018-01-16 03:48:43.485701
+INFO:tensorflow:Step 78000: Train accuracy = 83.6%
+INFO:tensorflow:Step 78000: Cross entropy = 0.403840
+INFO:tensorflow:Step 78000: Validation accuracy = 75.0% (N=671)
+INFO:tensorflow:Step 78000: Val Cross entropy = 0.616475
+------------------------------------------------------------------
+2018-01-16 03:50:20.050337
+INFO:tensorflow:Step 79000: Train accuracy = 82.8%
+INFO:tensorflow:Step 79000: Cross entropy = 0.456465
+INFO:tensorflow:Step 79000: Validation accuracy = 68.7% (N=671)
+INFO:tensorflow:Step 79000: Val Cross entropy = 0.669838
+------------------------------------------------------------------
+2018-01-16 03:51:56.411946
+INFO:tensorflow:Step 80000: Train accuracy = 75.0%
+INFO:tensorflow:Step 80000: Cross entropy = 0.608355
+INFO:tensorflow:Step 80000: Validation accuracy = 74.8% (N=671)
+INFO:tensorflow:Step 80000: Val Cross entropy = 0.605492
+------------------------------------------------------------------
+2018-01-16 03:53:33.185753
+INFO:tensorflow:Step 81000: Train accuracy = 72.7%
+INFO:tensorflow:Step 81000: Cross entropy = 0.607255
+INFO:tensorflow:Step 81000: Validation accuracy = 73.2% (N=671)
+INFO:tensorflow:Step 81000: Val Cross entropy = 0.629400
+------------------------------------------------------------------
+2018-01-16 03:55:09.516698
+INFO:tensorflow:Step 82000: Train accuracy = 78.9%
+INFO:tensorflow:Step 82000: Cross entropy = 0.568515
+INFO:tensorflow:Step 82000: Validation accuracy = 76.0% (N=671)
+INFO:tensorflow:Step 82000: Val Cross entropy = 0.610372
+------------------------------------------------------------------
+2018-01-16 03:56:46.083175
+INFO:tensorflow:Step 83000: Train accuracy = 80.5%
+INFO:tensorflow:Step 83000: Cross entropy = 0.478278
+INFO:tensorflow:Step 83000: Validation accuracy = 76.5% (N=671)
+INFO:tensorflow:Step 83000: Val Cross entropy = 0.559759
+------------------------------------------------------------------
+2018-01-16 03:58:22.640552
+INFO:tensorflow:Step 84000: Train accuracy = 78.1%
+INFO:tensorflow:Step 84000: Cross entropy = 0.472035
+INFO:tensorflow:Step 84000: Validation accuracy = 71.1% (N=671)
+INFO:tensorflow:Step 84000: Val Cross entropy = 0.613886
+------------------------------------------------------------------
+2018-01-16 03:59:59.390824
+INFO:tensorflow:Step 85000: Train accuracy = 75.8%
+INFO:tensorflow:Step 85000: Cross entropy = 0.627459
+INFO:tensorflow:Step 85000: Validation accuracy = 75.0% (N=671)
+INFO:tensorflow:Step 85000: Val Cross entropy = 0.589100
+------------------------------------------------------------------
+2018-01-16 04:01:35.783036
+INFO:tensorflow:Step 86000: Train accuracy = 71.9%
+INFO:tensorflow:Step 86000: Cross entropy = 0.557436
+INFO:tensorflow:Step 86000: Validation accuracy = 76.5% (N=671)
+INFO:tensorflow:Step 86000: Val Cross entropy = 0.551260
+------------------------------------------------------------------
+2018-01-16 04:03:12.437516
+INFO:tensorflow:Step 87000: Train accuracy = 81.2%
+INFO:tensorflow:Step 87000: Cross entropy = 0.478798
+INFO:tensorflow:Step 87000: Validation accuracy = 76.2% (N=671)
+INFO:tensorflow:Step 87000: Val Cross entropy = 0.560045
+------------------------------------------------------------------
+2018-01-16 04:04:48.904989
+INFO:tensorflow:Step 88000: Train accuracy = 73.4%
+INFO:tensorflow:Step 88000: Cross entropy = 0.578061
+INFO:tensorflow:Step 88000: Validation accuracy = 71.4% (N=671)
+INFO:tensorflow:Step 88000: Val Cross entropy = 0.672715
+------------------------------------------------------------------
+2018-01-16 04:06:25.690212
+INFO:tensorflow:Step 89000: Train accuracy = 81.2%
+INFO:tensorflow:Step 89000: Cross entropy = 0.437547
+INFO:tensorflow:Step 89000: Validation accuracy = 71.4% (N=671)
+INFO:tensorflow:Step 89000: Val Cross entropy = 0.613128
+------------------------------------------------------------------
+2018-01-16 04:08:02.375102
+INFO:tensorflow:Step 90000: Train accuracy = 73.4%
+INFO:tensorflow:Step 90000: Cross entropy = 0.497313
+INFO:tensorflow:Step 90000: Validation accuracy = 72.7% (N=671)
+INFO:tensorflow:Step 90000: Val Cross entropy = 0.619298
+------------------------------------------------------------------
+2018-01-16 04:09:39.177736
+INFO:tensorflow:Step 91000: Train accuracy = 80.5%
+INFO:tensorflow:Step 91000: Cross entropy = 0.509449
+INFO:tensorflow:Step 91000: Validation accuracy = 71.1% (N=671)
+INFO:tensorflow:Step 91000: Val Cross entropy = 0.662058
+------------------------------------------------------------------
+2018-01-16 04:11:16.022276
+INFO:tensorflow:Step 92000: Train accuracy = 78.9%
+INFO:tensorflow:Step 92000: Cross entropy = 0.513934
+INFO:tensorflow:Step 92000: Validation accuracy = 72.9% (N=671)
+INFO:tensorflow:Step 92000: Val Cross entropy = 0.637546
+------------------------------------------------------------------
+2018-01-16 04:12:52.870966
+INFO:tensorflow:Step 93000: Train accuracy = 76.6%
+INFO:tensorflow:Step 93000: Cross entropy = 0.505776
+INFO:tensorflow:Step 93000: Validation accuracy = 74.2% (N=671)
+INFO:tensorflow:Step 93000: Val Cross entropy = 0.628820
+------------------------------------------------------------------
+2018-01-16 04:14:29.504248
+INFO:tensorflow:Step 94000: Train accuracy = 77.3%
+INFO:tensorflow:Step 94000: Cross entropy = 0.519404
+INFO:tensorflow:Step 94000: Validation accuracy = 66.2% (N=671)
+INFO:tensorflow:Step 94000: Val Cross entropy = 0.699527
+------------------------------------------------------------------
+2018-01-16 04:16:06.488506
+INFO:tensorflow:Step 95000: Train accuracy = 73.4%
+INFO:tensorflow:Step 95000: Cross entropy = 0.543035
+INFO:tensorflow:Step 95000: Validation accuracy = 72.3% (N=671)
+INFO:tensorflow:Step 95000: Val Cross entropy = 0.611263
+------------------------------------------------------------------
+2018-01-16 04:17:43.192384
+INFO:tensorflow:Step 96000: Train accuracy = 78.9%
+INFO:tensorflow:Step 96000: Cross entropy = 0.487169
+INFO:tensorflow:Step 96000: Validation accuracy = 72.7% (N=671)
+INFO:tensorflow:Step 96000: Val Cross entropy = 0.622432
+------------------------------------------------------------------
+2018-01-16 04:19:20.191974
+INFO:tensorflow:Step 97000: Train accuracy = 82.8%
+INFO:tensorflow:Step 97000: Cross entropy = 0.435542
+INFO:tensorflow:Step 97000: Validation accuracy = 73.0% (N=671)
+INFO:tensorflow:Step 97000: Val Cross entropy = 0.616577
+------------------------------------------------------------------
+2018-01-16 04:20:56.846411
+INFO:tensorflow:Step 98000: Train accuracy = 71.1%
+INFO:tensorflow:Step 98000: Cross entropy = 0.602187
+INFO:tensorflow:Step 98000: Validation accuracy = 73.8% (N=671)
+INFO:tensorflow:Step 98000: Val Cross entropy = 0.632538
+------------------------------------------------------------------
+2018-01-16 04:22:33.738237
+INFO:tensorflow:Step 99000: Train accuracy = 75.0%
+INFO:tensorflow:Step 99000: Cross entropy = 0.504952
+INFO:tensorflow:Step 99000: Validation accuracy = 72.7% (N=671)
+INFO:tensorflow:Step 99000: Val Cross entropy = 0.631181
+------------------------------------------------------------------
+2018-01-16 04:24:10.169946
+INFO:tensorflow:Step 99999: Train accuracy = 77.3%
+INFO:tensorflow:Step 99999: Cross entropy = 0.601236
+INFO:tensorflow:Step 99999: Validation accuracy = 71.8% (N=671)
+INFO:tensorflow:Step 99999: Val Cross entropy = 0.682515
+------------------------------ SUMMARY ------------------------------
+INFO:tensorflow:Final test accuracy = 71.3% (N=1340)
+----------------------------- MORE INFO -----------------------------
+INFO:tensorflow:Best step: Step 60000, Train cross entropy = 0.455559, Train acc = 79.7%
+INFO:tensorflow:Best step: Step 60000, Val cross entropy = 0.549348, Val acc = 77.6%
+------------------------------- FROZE -------------------------------
+INFO:tensorflow:Froze 4 variables.
+Converted 4 variables to const ops.

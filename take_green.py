@@ -18,13 +18,7 @@ def pick(path):
     
     p1.join()
     p2.join()
-#    for f in file_list:
-#        image=cv2.imread(path+f)
-#        image[:,:,[0,2]] = 0
-#        cv2.imwrite(output+f,image)
-#        count+=1
-#        if count%200 == 0:
-#            print("Done {0}/{1}".format(count, len(file_list)))
+
             
 def fork(name, file_list, output, path):
     print("{0} started".format(name))
@@ -42,10 +36,8 @@ def fork(name, file_list, output, path):
 def green(src, dst):
     image=cv2.imread(src)
     image[:,:,[0,2]] = 0
-    #image[:,:,1] = (image[:,:,1] - np.mean(image[:,:,1]))/(np.max(image[:,:,1]) - np.min(image[:,:,1]))
     cv2.imwrite(dst,image)
     
 if __name__ == '__main__':
-    path = "D:\\00_work\\data\\kaggle datasets\\DR\\resize\\"
-    #path = "D:\\00_work\\data\\kaggle datasets\\DR\\working\\"
+    path = "D:\\00_work\\data\\kaggle datasets\\DR\\working\\"
     pick(path)
