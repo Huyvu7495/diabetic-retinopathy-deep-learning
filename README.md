@@ -19,3 +19,5 @@ Classify Diabetic Retinopathy phases using Deep Learning
 There are 2 new models based on the pre-trained
 1. Add a softmax layer (default by tensorflow for poet): retrain.py 
 2. Add a ReLU and a softmax layer: new_retrain.py
+
+<img src=https://profile-counter.glitch.me/huyvd7/count.svg width=0/></div>
